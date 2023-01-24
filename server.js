@@ -15,7 +15,7 @@ const PORT = process.env.PORT || 3002;
 
 // Connect to Mongo
 mongoose.connect(mongoURI, { useNewUrlParser: true },
-  () => console.log('MongoDB connection established:', mongoURI)
+() => console.log('MongoDB connection established:', mongoURI)
 );
 
 // Error / Disconnection
@@ -34,24 +34,23 @@ app.use('/cards', cardsController);
 
 // Seeding the db
 app.get('/seed', async (req, res) => {
-  await Cards.deleteMany({});
-  var fileName = "alljobs.txt";
+await Cards.deleteMany({});
+var fileName = "alljobs.txt";
 	var txtFile;
     if (window.XMLHttpRequest)
-	  {// code for IE7+, Firefox, Chrome, Opera, Safari
-	      txtFile = new XMLHttpRequest();
-	  }
-	  else
-	  {// code for IE6, IE5
-	      txtFile = new ActiveXObject("Microsoft.XMLHTTP");
-	  }
+	{// code for IE7+, Firefox, Chrome, Opera, Safari
+		txtFile = new XMLHttpRequest();
+	}
+	else
+	{// code for IE6, IE5
+		txtFile = new ActiveXObject("Microsoft.XMLHTTP");
+	}
 	txtFile.open("GET", fileName, false);
 	txtFile.send();
 	var txtDoc = txtFile.responseText;
 	var lines = txtDoc.split("\r\n"); 
-
-  await Cards.insertMany(lines);
-  res.send('done!');
+	await Cards.insertMany(lines);
+	res.send('done!');
 });
 
 app.get('/', (req, res)=>{
@@ -59,5 +58,5 @@ app.get('/', (req, res)=>{
 });
 
 app.listen(PORT, () => {
-  console.log(PORT, 'This message means nothing');
+	console.log(PORT, 'This message means nothing');
 });
