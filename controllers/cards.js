@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const Cards = require('../models/card.js');
+const Cards = require('../models/cards.js');
 // Remember INDUCES
 
 // Index
@@ -25,6 +25,9 @@ router.put('/:id', (req, res)=>{
 // Create
 router.post('/', (req, res)=>{
     Cards.create(req.body, (err, createdCard)=>{
+        const picGrab = axios.post('https://api.pexels.com/v1/' +
+        `${card.title}`);
+        card.img = picGrab;
         res.json(createdCard); //.json() will send proper headers in response so client knows it's json coming back
     });
 });

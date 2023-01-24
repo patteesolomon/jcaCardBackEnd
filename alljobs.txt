@@ -1,0 +1,8931 @@
+image for Accountant <start>
+Accountant
+Requires Bachelor’s
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$77k
+
+Accountant <end>
+image for Account Manager
+Account Manager
+SATISFACTION:
+ Very low
+
+SALARY:
+$47k
+
+Account Manager
+image for Acrobat
+Acrobat
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Acrobat
+image for Actor
+Actor
+Requires No Education
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$48k
+
+Actor
+image for Actuary
+Actuary
+Requires Bachelor’s
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$105k
+
+Actuary
+image for Acupuncturist
+Acupuncturist
+Requires Master’s
+
+SATISFACTION:
+ High
+
+SALARY:
+$73k
+
+Acupuncturist
+image for Acute Care Nurse Practitioner
+Acute Care Nurse Practitioner
+Requires Master’s
+
+SATISFACTION:
+N/A
+
+SALARY:
+$77k
+
+Acute Care Nurse Practitioner
+image for Administrative Assistant
+Administrative Assistant
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$37k
+
+Administrative Assistant
+image for Advertising Manager
+Advertising Manager
+Requires Bachelor’s
+
+SATISFACTION:
+ Low
+
+SALARY:
+$127k
+
+Advertising Manager
+image for Advertising Sales Agent
+Advertising Sales Agent
+Requires Associate Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$52k
+
+Advertising Sales Agent
+image for Aerospace Engineer
+Aerospace Engineer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$122k
+
+Aerospace Engineer
+image for Aesthetician
+Aesthetician
+Requires High School Diploma
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$37k
+
+Aesthetician
+image for Agricultural and Food Science Technician
+Agricultural and Food Science Technician
+SATISFACTION:
+ Low
+
+SALARY:
+$40k
+
+Agricultural and Food Science Technician
+image for Agricultural Engineer
+Agricultural Engineer
+SATISFACTION:
+ Medium
+
+SALARY:
+$82k
+
+Agricultural Engineer
+image for Agricultural Inspector
+Agricultural Inspector
+Requires High School Diploma
+
+SATISFACTION:
+ Low
+
+SALARY:
+$45k
+
+Agricultural Inspector
+image for Agricultural Worker
+Agricultural Worker
+Requires No Education
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$29k
+
+Agricultural Worker
+image for Agrologist
+Agrologist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Agrologist
+image for Agronomist
+Agronomist
+SATISFACTION:
+ High
+
+SALARY:
+$41k
+
+Agronomist
+image for Aircraft Launch and Recovery Specialist
+Aircraft Launch and Recovery Specialist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Aircraft Launch and Recovery Specialist
+image for Aircraft Mechanic
+Aircraft Mechanic
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$65k
+
+Aircraft Mechanic
+image for Air Crew Member
+Air Crew Member
+SATISFACTION:
+ Medium
+
+SALARY:
+$35k
+
+Air Crew Member
+image for Air Crew Officer
+Air Crew Officer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$202k
+
+Air Crew Officer
+image for Air Force Officer
+Air Force Officer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Air Force Officer
+image for Air Traffic Controller
+Air Traffic Controller
+Requires Associate Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$129k
+
+Air Traffic Controller
+image for Air Weapons Specialist
+Air Weapons Specialist
+SATISFACTION:
+ Very low
+
+SALARY:
+N/A
+
+Air Weapons Specialist
+image for Alligator Farmer
+Alligator Farmer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Alligator Farmer
+image for Ambassador
+Ambassador
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Ambassador
+image for Ambulance Dispatcher
+Ambulance Dispatcher
+Requires High School Diploma
+
+SATISFACTION:
+ Low
+
+SALARY:
+$46k
+
+Ambulance Dispatcher
+image for American Sign Language Interpreter
+American Sign Language Interpreter
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$49k
+
+American Sign Language Interpreter
+image for Amusement Attendant
+Amusement Attendant
+Requires No Education
+
+SATISFACTION:
+ Low
+
+SALARY:
+$24k
+
+Amusement Attendant
+image for Anesthesiologist
+Anesthesiologist
+Requires Doctorate
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$267k
+
+Anesthesiologist
+image for Anesthesiologist Assistant
+Anesthesiologist Assistant
+SATISFACTION:
+ Medium
+
+SALARY:
+$121k
+
+Anesthesiologist Assistant
+image for Animal Assisted Therapist
+Animal Assisted Therapist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Animal Assisted Therapist
+image for Animal Behavioural Specialist
+Animal Behavioural Specialist
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Animal Behavioural Specialist
+image for Animal Breeder
+Animal Breeder
+Requires High School Diploma
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$40k
+
+Animal Breeder
+image for Animal Caretaker
+Animal Caretaker
+Requires No Education
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$28k
+
+Animal Caretaker
+image for Animal Control Worker
+Animal Control Worker
+Requires Associate Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$39k
+
+Animal Control Worker
+image for Animal Lawyer
+Animal Lawyer
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Animal Lawyer
+image for Animal Nutritionist
+Animal Nutritionist
+SATISFACTION:
+ High
+
+SALARY:
+N/A
+
+Animal Nutritionist
+image for Animal Scientist
+Animal Scientist
+Requires Doctorate
+
+SATISFACTION:
+ High
+
+SALARY:
+$65k
+
+Animal Scientist
+image for Animal Trainer
+Animal Trainer
+Requires High School Diploma
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$31k
+
+Animal Trainer
+image for Announcer
+Announcer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$37k
+
+Announcer
+image for Anthropologist
+Anthropologist
+Requires Master's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$61k
+
+Anthropologist
+image for App Developer
+App Developer
+SATISFACTION:
+ High
+
+SALARY:
+$71k
+
+App Developer
+image for Aquacultural Manager
+Aquacultural Manager
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$73k
+
+Aquacultural Manager
+image for Aquarist
+Aquarist
+SATISFACTION:
+ Very high
+
+SALARY:
+$27k
+
+Aquarist
+image for A&R Administrator
+A&R Administrator
+SATISFACTION:
+ Low
+
+SALARY:
+N/A
+
+A&R Administrator
+image for Arbitrator
+Arbitrator
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$49k
+
+Arbitrator
+image for Arborist
+Arborist
+Requires High School Diploma
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$46k
+
+Arborist
+image for Archaeologist
+Archaeologist
+Requires Doctorate
+
+SATISFACTION:
+ High
+
+SALARY:
+$61k
+
+Archaeologist
+image for Architect
+Architect
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$80k
+
+Architect
+image for Architectural Engineer
+Architectural Engineer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Architectural Engineer
+image for Architectural Technologist
+Architectural Technologist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Architectural Technologist
+image for Archivist
+Archivist
+Requires Master's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$60k
+
+Archivist
+image for A&R Coordinator
+A&R Coordinator
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+A&R Coordinator
+image for Armored Assault Vehicle Crew Member
+Armored Assault Vehicle Crew Member
+SATISFACTION:
+ Low
+
+SALARY:
+$34k
+
+Armored Assault Vehicle Crew Member
+image for Army Officer
+Army Officer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Army Officer
+image for Art Director
+Art Director
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$100k
+
+Art Director
+image for Artillery Crew Member
+Artillery Crew Member
+SATISFACTION:
+ Very low
+
+SALARY:
+$34k
+
+Artillery Crew Member
+image for Art Teacher
+Art Teacher
+SATISFACTION:
+ High
+
+SALARY:
+$34k
+
+Art Teacher
+image for Art Therapist
+Art Therapist
+SATISFACTION:
+ Very high
+
+SALARY:
+$47k
+
+Art Therapist
+image for Astronaut
+Astronaut
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Astronaut
+image for Astronomer
+Astronomer
+Requires Doctorate
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$128k
+
+Astronomer
+image for Astrophysicist
+Astrophysicist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Astrophysicist
+image for Athlete
+Athlete
+Requires No Education
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$77k
+
+Athlete
+image for Athletic Trainer
+Athletic Trainer
+Requires Master's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$48k
+
+Athletic Trainer
+image for Atmospheric Scientist
+Atmospheric Scientist
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$94k
+
+Atmospheric Scientist
+image for Audio Engineer
+Audio Engineer
+Requires Associate Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$60k
+
+Audio Engineer
+image for Audiologist
+Audiologist
+Requires Doctorate
+
+SATISFACTION:
+ Low
+
+SALARY:
+$78k
+
+Audiologist
+image for Audio Visual Technician
+Audio Visual Technician
+Requires Associate Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$48k
+
+Audio Visual Technician
+image for Auditor
+Auditor
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$77k
+
+Auditor
+image for Author
+Author
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$69k
+
+Author
+image for Auto Body Repairer
+Auto Body Repairer
+Requires High School Diploma
+
+SATISFACTION:
+ Low
+
+SALARY:
+$47k
+
+Auto Body Repairer
+image for Auto Repair Technician
+Auto Repair Technician
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$46k
+
+Auto Repair Technician
+image for Aviation Inspector
+Aviation Inspector
+Requires Associate Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$79k
+
+Aviation Inspector
+image for Aviation Manager
+Aviation Manager
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Aviation Manager
+image for Avionics Technician
+Avionics Technician
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$69k
+
+Avionics Technician
+image for Back-End Developer
+Back-End Developer
+SATISFACTION:
+ High
+
+SALARY:
+$67k
+
+Back-End Developer
+image for Bailiff
+Bailiff
+Requires High School Diploma
+
+SATISFACTION:
+ Low
+
+SALARY:
+$48k
+
+Bailiff
+image for Baker
+Baker
+Requires High School Diploma
+
+SATISFACTION:
+ Low
+
+SALARY:
+$29k
+
+Baker
+image for Bank Manager
+Bank Manager
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$131k
+
+Bank Manager
+image for Barista
+Barista
+SATISFACTION:
+ Low
+
+SALARY:
+$24k
+
+Barista
+image for Bartender
+Bartender
+Requires High School Diploma
+
+SATISFACTION:
+ Low
+
+SALARY:
+$26k
+
+Bartender
+image for Beekeeper
+Beekeeper
+SATISFACTION:
+ Very high
+
+SALARY:
+$28k
+
+Beekeeper
+image for Behavioral Scientist
+Behavioral Scientist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Behavioral Scientist
+image for Bill and Account Collector
+Bill and Account Collector
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$37k
+
+Bill and Account Collector
+image for Biochemical Engineer
+Biochemical Engineer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$100k
+
+Biochemical Engineer
+image for Biochemist
+Biochemist
+Requires Doctorate
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$102k
+
+Biochemist
+image for Biofuel Engineer
+Biofuel Engineer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Biofuel Engineer
+image for Biofuels Production Manager
+Biofuels Production Manager
+SATISFACTION:
+N/A
+
+SALARY:
+$103k
+
+Biofuels Production Manager
+image for Bioinformatics Scientist
+Bioinformatics Scientist
+Requires Doctorate
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$82k
+
+Bioinformatics Scientist
+image for Biologist
+Biologist
+Requires Doctorate
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$82k
+
+Biologist
+image for Biomass Plant Technician
+Biomass Plant Technician
+Requires High School Diploma
+
+SATISFACTION:
+N/A
+
+SALARY:
+$50k
+
+Biomass Plant Technician
+image for Biomass Power Plant Manager
+Biomass Power Plant Manager
+Requires Bachelor's Degree
+
+SATISFACTION:
+N/A
+
+SALARY:
+$103k
+
+Biomass Power Plant Manager
+image for Biomedical Engineer
+Biomedical Engineer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$97k
+
+Biomedical Engineer
+image for Biomedical Scientist
+Biomedical Scientist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Biomedical Scientist
+image for Biophysicist
+Biophysicist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Biophysicist
+image for Biostatistician
+Biostatistician
+Requires Doctorate
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$95k
+
+Biostatistician
+image for Biotechnician
+Biotechnician
+SATISFACTION:
+ Low
+
+SALARY:
+$48k
+
+Biotechnician
+image for Biotechnologist
+Biotechnologist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Biotechnologist
+image for Blockchain Developer
+Blockchain Developer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Blockchain Developer
+image for Blogger
+Blogger
+SATISFACTION:
+ Very high
+
+SALARY:
+$25k
+
+Blogger
+image for Bodyguard
+Bodyguard
+SATISFACTION:
+ High
+
+SALARY:
+N/A
+
+Bodyguard
+image for Boilermaker
+Boilermaker
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$64k
+
+Boilermaker
+image for Booking Agent
+Booking Agent
+SATISFACTION:
+ Low
+
+SALARY:
+N/A
+
+Booking Agent
+image for Bookkeeper
+Bookkeeper
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$45k
+
+Bookkeeper
+image for Botanist
+Botanist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Botanist
+image for Brewmaster
+Brewmaster
+SATISFACTION:
+ High
+
+SALARY:
+$46k
+
+Brewmaster
+image for Brickmason
+Brickmason
+Requires No Education
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$59k
+
+Brickmason
+image for Budget Analyst
+Budget Analyst
+SATISFACTION:
+ Very low
+
+SALARY:
+$79k
+
+Budget Analyst
+image for Building Inspector
+Building Inspector
+Requires Associate Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$61k
+
+Building Inspector
+image for Bus Driver
+Bus Driver
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$42k
+
+Bus Driver
+image for Business Analyst
+Business Analyst
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$93k
+
+Business Analyst
+image for Butcher
+Butcher
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$36k
+
+Butcher
+image for Cabinetmaker
+Cabinetmaker
+Requires High School Diploma
+
+SATISFACTION:
+ Low
+
+SALARY:
+$37k
+
+Cabinetmaker
+image for Cake Designer
+Cake Designer
+SATISFACTION:
+ High
+
+SALARY:
+$22k
+
+Cake Designer
+image for Calligrapher
+Calligrapher
+SATISFACTION:
+ Very high
+
+SALARY:
+$61k
+
+Calligrapher
+image for Camera Operator
+Camera Operator
+Requires Associate Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$49k
+
+Camera Operator
+image for Cardiologist
+Cardiologist
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Cardiologist
+image for Cardiothoracic Surgeon
+Cardiothoracic Surgeon
+SATISFACTION:
+ Very high
+
+SALARY:
+$255k
+
+Cardiothoracic Surgeon
+image for Cardiovascular Technologist and Technician
+Cardiovascular Technologist and Technician
+SATISFACTION:
+ Low
+
+SALARY:
+$60k
+
+Cardiovascular Technologist and Technician
+image for Career Counselor
+Career Counselor
+SATISFACTION:
+ Very high
+
+SALARY:
+$41k
+
+Career Counselor
+image for Cargo and Freight Agent
+Cargo and Freight Agent
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$46k
+
+Cargo and Freight Agent
+image for Carpenter
+Carpenter
+Requires High School Diploma
+
+SATISFACTION:
+ Low
+
+SALARY:
+$48k
+
+Carpenter
+image for Car Salesman
+Car Salesman
+SATISFACTION:
+ Very low
+
+SALARY:
+$35k
+
+Car Salesman
+image for Cartographer
+Cartographer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$68k
+
+Cartographer
+image for Cartoonist
+Cartoonist
+SATISFACTION:
+ Very high
+
+SALARY:
+$29k
+
+Cartoonist
+image for Cashier
+Cashier
+Requires No Education
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$27k
+
+Cashier
+image for Caterer
+Caterer
+SATISFACTION:
+ Low
+
+SALARY:
+$28k
+
+Caterer
+image for Cement Mason
+Cement Mason
+Requires No Education
+
+SATISFACTION:
+ Low
+
+SALARY:
+$47k
+
+Cement Mason
+image for CEO
+CEO
+SATISFACTION:
+ Very high
+
+SALARY:
+$87k
+
+CEO
+image for Certified Crop Advisor
+Certified Crop Advisor
+Requires Master's Degree
+
+SATISFACTION:
+N/A
+
+SALARY:
+$49k
+
+Certified Crop Advisor
+image for Certified Professional Organizer
+Certified Professional Organizer
+SATISFACTION:
+ High
+
+SALARY:
+$44k
+
+Certified Professional Organizer
+image for CFO
+CFO
+SATISFACTION:
+ High
+
+SALARY:
+$99k
+
+CFO
+image for Chemical Engineer
+Chemical Engineer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$105k
+
+Chemical Engineer
+image for Chemical Technician
+Chemical Technician
+SATISFACTION:
+ Low
+
+SALARY:
+$48k
+
+Chemical Technician
+image for Chemist
+Chemist
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$79k
+
+Chemist
+image for Chicken Sexer
+Chicken Sexer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Chicken Sexer
+image for Chief Executive
+Chief Executive
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$179k
+
+Chief Executive
+image for Childcare Program Administrator
+Childcare Program Administrator
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$47k
+
+Childcare Program Administrator
+image for Childcare Worker
+Childcare Worker
+Requires High School Diploma
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$27k
+
+Childcare Worker
+image for Child Psychologist
+Child Psychologist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Child Psychologist
+image for Chiropractic Neurologist
+Chiropractic Neurologist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Chiropractic Neurologist
+image for Chiropractor
+Chiropractor
+Requires Doctorate
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$75k
+
+Chiropractor
+image for Choir Director
+Choir Director
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Choir Director
+image for Choreographer
+Choreographer
+Requires High School Diploma
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$42k
+
+Choreographer
+image for Cinematographer
+Cinematographer
+SATISFACTION:
+ Very high
+
+SALARY:
+$40k
+
+Cinematographer
+image for CIO
+CIO
+SATISFACTION:
+ High
+
+SALARY:
+N/A
+
+CIO
+image for Circus Performer
+Circus Performer
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Circus Performer
+image for CISO
+CISO
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+CISO
+image for Civil Engineer
+Civil Engineer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$88k
+
+Civil Engineer
+image for Clergy
+Clergy
+Requires Master's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$49k
+
+Clergy
+image for Climate Change Analyst
+Climate Change Analyst
+Requires Master's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$76k
+
+Climate Change Analyst
+image for Clinical Ethicist
+Clinical Ethicist
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Clinical Ethicist
+image for Clinical Nurse Specialist
+Clinical Nurse Specialist
+SATISFACTION:
+ Very low
+
+SALARY:
+$77k
+
+Clinical Nurse Specialist
+image for Clinical Psychologist
+Clinical Psychologist
+SATISFACTION:
+ Medium
+
+SALARY:
+$79k
+
+Clinical Psychologist
+image for Clinical Research Coordinator
+Clinical Research Coordinator
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$137k
+
+Clinical Research Coordinator
+image for Clown
+Clown
+SATISFACTION:
+ Medium
+
+SALARY:
+N/A
+
+Clown
+image for Coach
+Coach
+SATISFACTION:
+ Very high
+
+SALARY:
+$26k
+
+Coach
+image for Coffee Roaster
+Coffee Roaster
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Coffee Roaster
+image for Colorectal Surgeon
+Colorectal Surgeon
+SATISFACTION:
+N/A
+
+SALARY:
+$255k
+
+Colorectal Surgeon
+image for Comedian
+Comedian
+SATISFACTION:
+ Very high
+
+SALARY:
+$31k
+
+Comedian
+image for Commercial Artist
+Commercial Artist
+SATISFACTION:
+ Medium
+
+SALARY:
+N/A
+
+Commercial Artist
+image for Commercial Diver
+Commercial Diver
+Requires Associate Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$60k
+
+Commercial Diver
+image for Commercial Fisherman
+Commercial Fisherman
+Requires No Education
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$37k
+
+Commercial Fisherman
+image for Commercial Pilot
+Commercial Pilot
+Requires Associate Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$99k
+
+Commercial Pilot
+image for Community Health Worker
+Community Health Worker
+SATISFACTION:
+ Medium
+
+SALARY:
+$46k
+
+Community Health Worker
+image for Compensation and Benefits Manager
+Compensation and Benefits Manager
+SATISFACTION:
+ Very low
+
+SALARY:
+$127k
+
+Compensation and Benefits Manager
+image for Compliance Manager
+Compliance Manager
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$124k
+
+Compliance Manager
+image for Composer
+Composer
+Requires Associate Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$49k
+
+Composer
+image for Computer and Information Research Scientist
+Computer and Information Research Scientist
+Requires Master's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$118k
+
+Computer and Information Research Scientist
+image for Computer Hardware Engineer
+Computer Hardware Engineer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$128k
+
+Computer Hardware Engineer
+image for Computer Programmer
+Computer Programmer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$85k
+
+Computer Programmer
+image for Computer Repair Technician
+Computer Repair Technician
+Requires Associate Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$47k
+
+Computer Repair Technician
+image for Concierge
+Concierge
+Requires Associate Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$35k
+
+Concierge
+image for Conductor
+Conductor
+Requires Doctorate
+
+SATISFACTION:
+ High
+
+SALARY:
+$49k
+
+Conductor
+image for Conservation Scientist
+Conservation Scientist
+SATISFACTION:
+ High
+
+SALARY:
+$63k
+
+Conservation Scientist
+image for Construction Engineer
+Construction Engineer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Construction Engineer
+image for Construction Manager
+Construction Manager
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$98k
+
+Construction Manager
+image for Construction Worker
+Construction Worker
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$37k
+
+Construction Worker
+image for Consultant
+Consultant
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$76k
+
+Consultant
+image for Content Manager
+Content Manager
+SATISFACTION:
+ Medium
+
+SALARY:
+$39k
+
+Content Manager
+image for Control Center Specialist
+Control Center Specialist
+SATISFACTION:
+ Low
+
+SALARY:
+$37k
+
+Control Center Specialist
+image for Controller
+Controller
+SATISFACTION:
+ Low
+
+SALARY:
+$71k
+
+Controller
+image for COO
+COO
+SATISFACTION:
+ High
+
+SALARY:
+$79k
+
+COO
+image for Copywriter
+Copywriter
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$69k
+
+Copywriter
+image for Coroner
+Coroner
+Requires Associate Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$71k
+
+Coroner
+image for Correctional Officer
+Correctional Officer
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$47k
+
+Correctional Officer
+image for Correspondent
+Correspondent
+SATISFACTION:
+ Medium
+
+SALARY:
+N/A
+
+Correspondent
+image for Cost Estimator
+Cost Estimator
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$65k
+
+Cost Estimator
+image for Costume Attendant
+Costume Attendant
+Requires High School Diploma
+
+SATISFACTION:
+ High
+
+SALARY:
+$47k
+
+Costume Attendant
+image for Costume Designer
+Costume Designer
+SATISFACTION:
+ Very high
+
+SALARY:
+$26k
+
+Costume Designer
+image for Counseling Psychologist
+Counseling Psychologist
+Requires Doctorate
+
+SATISFACTION:
+ High
+
+SALARY:
+$79k
+
+Counseling Psychologist
+image for Counselor
+Counselor
+Requires Master's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$55k
+
+Counselor
+image for Courier
+Courier
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$33k
+
+Courier
+image for Court Reporter
+Court Reporter
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$57k
+
+Court Reporter
+image for Craft Artist
+Craft Artist
+Requires Associate Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$35k
+
+Craft Artist
+image for Crane Operator
+Crane Operator
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$62k
+
+Crane Operator
+image for Credit Analyst
+Credit Analyst
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$77k
+
+Credit Analyst
+image for Credit Counselor
+Credit Counselor
+SATISFACTION:
+ Very low
+
+SALARY:
+$47k
+
+Credit Counselor
+image for Criminologist
+Criminologist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Criminologist
+image for Crocodile Wrangler
+Crocodile Wrangler
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Crocodile Wrangler
+image for Cryptanalyst
+Cryptanalyst
+SATISFACTION:
+ Very low
+
+SALARY:
+N/A
+
+Cryptanalyst
+image for Cryptographer
+Cryptographer
+SATISFACTION:
+ Medium
+
+SALARY:
+N/A
+
+Cryptographer
+image for Culinary Chef
+Culinary Chef
+Requires High School Diploma
+
+SATISFACTION:
+ Low
+
+SALARY:
+$50k
+
+Culinary Chef
+image for Curator
+Curator
+Requires Master's Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$60k
+
+Curator
+image for Customer Service Representative
+Customer Service Representative
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$36k
+
+Customer Service Representative
+image for Customer Success Manager
+Customer Success Manager
+SATISFACTION:
+ Low
+
+SALARY:
+$46k
+
+Customer Success Manager
+image for Customs Broker
+Customs Broker
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$74k
+
+Customs Broker
+image for Customs Inspector
+Customs Inspector
+Requires High School Diploma
+
+SATISFACTION:
+ Low
+
+SALARY:
+$83k
+
+Customs Inspector
+image for Cybercrime Investigator
+Cybercrime Investigator
+SATISFACTION:
+ Medium
+
+SALARY:
+N/A
+
+Cybercrime Investigator
+image for Cytogenetic Technologist
+Cytogenetic Technologist
+SATISFACTION:
+ Very low
+
+SALARY:
+$61k
+
+Cytogenetic Technologist
+image for Cytotechnologist
+Cytotechnologist
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$61k
+
+Cytotechnologist
+image for Dairy Farmer
+Dairy Farmer
+SATISFACTION:
+ Medium
+
+SALARY:
+$26k
+
+Dairy Farmer
+image for Dairy Herdsperson
+Dairy Herdsperson
+SATISFACTION:
+ Medium
+
+SALARY:
+N/A
+
+Dairy Herdsperson
+image for Dancer
+Dancer
+Requires No Education
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$39k
+
+Dancer
+image for Data Analyst
+Data Analyst
+SATISFACTION:
+ Low
+
+SALARY:
+$44k
+
+Data Analyst
+image for Database Administrator
+Database Administrator
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$83k
+
+Database Administrator
+image for Database Architect
+Database Architect
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$90k
+
+Database Architect
+image for Data Engineer
+Data Engineer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Data Engineer
+image for Data Scientist
+Data Scientist
+SATISFACTION:
+ Medium
+
+SALARY:
+$87k
+
+Data Scientist
+image for Delivery Service Driver
+Delivery Service Driver
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$38k
+
+Delivery Service Driver
+image for Dental Assistant
+Dental Assistant
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$38k
+
+Dental Assistant
+image for Dental Hygienist
+Dental Hygienist
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$74k
+
+Dental Hygienist
+image for Dentist
+Dentist
+Requires Doctorate
+
+SATISFACTION:
+ Low
+
+SALARY:
+$160k
+
+Dentist
+image for Dermatologist
+Dermatologist
+Requires Doctorate
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$200k
+
+Dermatologist
+image for Derrick Operator
+Derrick Operator
+Requires No Education
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$47k
+
+Derrick Operator
+image for Desktop Publisher
+Desktop Publisher
+SATISFACTION:
+ Medium
+
+SALARY:
+$46k
+
+Desktop Publisher
+image for Detective
+Detective
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$83k
+
+Detective
+image for Diagnostic Medical Sonographer
+Diagnostic Medical Sonographer
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$77k
+
+Diagnostic Medical Sonographer
+image for Diesel Mechanic
+Diesel Mechanic
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Diesel Mechanic
+image for Dietetic Technician
+Dietetic Technician
+SATISFACTION:
+ Very low
+
+SALARY:
+$29k
+
+Dietetic Technician
+image for Digital Marketing Specialist
+Digital Marketing Specialist
+SATISFACTION:
+ Low
+
+SALARY:
+$39k
+
+Digital Marketing Specialist
+image for Digital Remastering Engineer
+Digital Remastering Engineer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Digital Remastering Engineer
+image for Diplomat
+Diplomat
+SATISFACTION:
+ High
+
+SALARY:
+N/A
+
+Diplomat
+image for Disaster Recovery Specialist
+Disaster Recovery Specialist
+SATISFACTION:
+ Medium
+
+SALARY:
+$40k
+
+Disaster Recovery Specialist
+image for Distance Learning Coordinator
+Distance Learning Coordinator
+Requires Master's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$90k
+
+Distance Learning Coordinator
+image for DJ
+DJ
+Requires High School Diploma
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$27k
+
+DJ
+image for Doctor
+Doctor
+Requires Doctorate
+
+SATISFACTION:
+ High
+
+SALARY:
+$105k
+
+Doctor
+image for Dog Breeder
+Dog Breeder
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Dog Breeder
+image for Dog Groomer
+Dog Groomer
+SATISFACTION:
+ Medium
+
+SALARY:
+$22k
+
+Dog Groomer
+image for Dog Trainer
+Dog Trainer
+SATISFACTION:
+ Very high
+
+SALARY:
+$26k
+
+Dog Trainer
+image for Dog Walker
+Dog Walker
+SATISFACTION:
+ High
+
+SALARY:
+$25k
+
+Dog Walker
+image for Doula
+Doula
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Doula
+image for Drafter
+Drafter
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$60k
+
+Drafter
+image for Drill Press Operator
+Drill Press Operator
+SATISFACTION:
+ Very low
+
+SALARY:
+$38k
+
+Drill Press Operator
+image for Drug & Alcohol Counselor
+Drug & Alcohol Counselor
+Requires Master's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$31k
+
+Drug & Alcohol Counselor
+image for Drywall Installer
+Drywall Installer
+Requires No Education
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$48k
+
+Drywall Installer
+image for Dyeing Machine Operator
+Dyeing Machine Operator
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$29k
+
+Dyeing Machine Operator
+image for Ecologist
+Ecologist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Ecologist
+image for Economist
+Economist
+Requires Doctorate
+
+SATISFACTION:
+ Low
+
+SALARY:
+$105k
+
+Economist
+image for Editor
+Editor
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$63k
+
+Editor
+image for Education Administrator
+Education Administrator
+SATISFACTION:
+ Medium
+
+SALARY:
+$48k
+
+Education Administrator
+image for Electrical Engineer
+Electrical Engineer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$100k
+
+Electrical Engineer
+image for Electrician
+Electrician
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$60k
+
+Electrician
+image for Electronic Assembler
+Electronic Assembler
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$28k
+
+Electronic Assembler
+image for Elementary School Teacher
+Elementary School Teacher
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$61k
+
+Elementary School Teacher
+image for Elevator Mechanic
+Elevator Mechanic
+SATISFACTION:
+ Low
+
+SALARY:
+$97k
+
+Elevator Mechanic
+image for Embalmer
+Embalmer
+Requires Associate Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$47k
+
+Embalmer
+image for Endocrinologist
+Endocrinologist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Endocrinologist
+image for Endodontist
+Endodontist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Endodontist
+image for Endoscopy Technician
+Endoscopy Technician
+Requires Associate Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$37k
+
+Endoscopy Technician
+image for Energy Auditor
+Energy Auditor
+Requires Associate Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$74k
+
+Energy Auditor
+image for Energy Broker
+Energy Broker
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$54k
+
+Energy Broker
+image for Engineer
+Engineer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$98k
+
+Engineer
+image for Engineering Physicist
+Engineering Physicist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Engineering Physicist
+image for Engraver
+Engraver
+Requires High School Diploma
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$36k
+
+Engraver
+image for Enterprise Architect
+Enterprise Architect
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Enterprise Architect
+image for Entomologist
+Entomologist
+SATISFACTION:
+ High
+
+SALARY:
+N/A
+
+Entomologist
+image for Entrepreneur
+Entrepreneur
+SATISFACTION:
+ Very high
+
+SALARY:
+$43k
+
+Entrepreneur
+image for Environmental Consultant
+Environmental Consultant
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$76k
+
+Environmental Consultant
+image for Environmental Designer
+Environmental Designer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Environmental Designer
+image for Environmental Engineer
+Environmental Engineer
+Requires Master's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$96k
+
+Environmental Engineer
+image for Environmental Restoration Planner
+Environmental Restoration Planner
+Requires Master's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$76k
+
+Environmental Restoration Planner
+image for Environmental Technician
+Environmental Technician
+SATISFACTION:
+ Low
+
+SALARY:
+$46k
+
+Environmental Technician
+image for Epidemiologist
+Epidemiologist
+Requires Master's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$78k
+
+Epidemiologist
+image for Equestrian
+Equestrian
+SATISFACTION:
+ Very high
+
+SALARY:
+$22k
+
+Equestrian
+image for Ethical Hacker
+Ethical Hacker
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Ethical Hacker
+image for Ethnomusicologist
+Ethnomusicologist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Ethnomusicologist
+image for Event Planner
+Event Planner
+Requires Associate Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$49k
+
+Event Planner
+image for Executive Assistant
+Executive Assistant
+SATISFACTION:
+ Very low
+
+SALARY:
+$62k
+
+Executive Assistant
+image for Executive Producer
+Executive Producer
+SATISFACTION:
+ High
+
+SALARY:
+$59k
+
+Executive Producer
+image for Exercise Physiologist
+Exercise Physiologist
+Requires Master's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$47k
+
+Exercise Physiologist
+image for Exhibit Designer
+Exhibit Designer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$54k
+
+Exhibit Designer
+image for Explosives Worker
+Explosives Worker
+Requires High School Diploma
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$49k
+
+Explosives Worker
+image for Exterminator
+Exterminator
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$37k
+
+Exterminator
+image for Extraction Worker
+Extraction Worker
+SATISFACTION:
+ Medium
+
+SALARY:
+$37k
+
+Extraction Worker
+image for Facility Maintenance Mechanic
+Facility Maintenance Mechanic
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$59k
+
+Facility Maintenance Mechanic
+image for Falconer
+Falconer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Falconer
+image for Faller
+Faller
+Requires No Education
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$47k
+
+Faller
+image for Family Practitioner
+Family Practitioner
+Requires Doctorate
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$201k
+
+Family Practitioner
+image for Family Social Worker
+Family Social Worker
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$49k
+
+Family Social Worker
+image for Farm Equipment Mechanic
+Farm Equipment Mechanic
+Requires Associate Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$46k
+
+Farm Equipment Mechanic
+image for Farmer
+Farmer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$23k
+
+Farmer
+image for Farm Manager
+Farm Manager
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$73k
+
+Farm Manager
+image for Farrier
+Farrier
+SATISFACTION:
+ High
+
+SALARY:
+N/A
+
+Farrier
+image for Fashion Designer
+Fashion Designer
+Requires Associate Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$77k
+
+Fashion Designer
+image for Film and Video Editor
+Film and Video Editor
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$62k
+
+Film and Video Editor
+image for Film Colorist
+Film Colorist
+SATISFACTION:
+ High
+
+SALARY:
+N/A
+
+Film Colorist
+image for Film Director
+Film Director
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$79k
+
+Film Director
+image for Filmmaker
+Filmmaker
+SATISFACTION:
+ Very high
+
+SALARY:
+$79k
+
+Filmmaker
+image for Financial Advisor
+Financial Advisor
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$94k
+
+Financial Advisor
+image for Financial Analyst
+Financial Analyst
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$91k
+
+Financial Analyst
+image for Financial Clerk
+Financial Clerk
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$45k
+
+Financial Clerk
+image for Financial Manager
+Financial Manager
+SATISFACTION:
+ Low
+
+SALARY:
+$131k
+
+Financial Manager
+image for Financial Quantitative Analyst
+Financial Quantitative Analyst
+SATISFACTION:
+ Medium
+
+SALARY:
+$73k
+
+Financial Quantitative Analyst
+image for Firefighter
+Firefighter
+SATISFACTION:
+ Very high
+
+SALARY:
+$50k
+
+Firefighter
+image for Fire Inspector
+Fire Inspector
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$64k
+
+Fire Inspector
+image for Fish And Game Warden
+Fish And Game Warden
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$60k
+
+Fish And Game Warden
+image for Fishery Officer
+Fishery Officer
+SATISFACTION:
+ High
+
+SALARY:
+N/A
+
+Fishery Officer
+image for Fitness Coordinator
+Fitness Coordinator
+SATISFACTION:
+ High
+
+SALARY:
+$90k
+
+Fitness Coordinator
+image for Fitness Trainer
+Fitness Trainer
+Requires Master's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$40k
+
+Fitness Trainer
+image for Flight Attendant
+Flight Attendant
+Requires Associate Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$61k
+
+Flight Attendant
+image for Flight Engineer
+Flight Engineer
+SATISFACTION:
+ High
+
+SALARY:
+N/A
+
+Flight Engineer
+image for Florist
+Florist
+Requires High School Diploma
+
+SATISFACTION:
+ High
+
+SALARY:
+$29k
+
+Florist
+image for Food Batchmaker
+Food Batchmaker
+Requires High School Diploma
+
+SATISFACTION:
+N/A
+
+SALARY:
+$35k
+
+Food Batchmaker
+image for Food Critic
+Food Critic
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Food Critic
+image for Food Market Analyst
+Food Market Analyst
+SATISFACTION:
+ Medium
+
+SALARY:
+N/A
+
+Food Market Analyst
+image for Food Preparation Worker
+Food Preparation Worker
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$28k
+
+Food Preparation Worker
+image for Food Product Development Technician
+Food Product Development Technician
+SATISFACTION:
+ Very low
+
+SALARY:
+N/A
+
+Food Product Development Technician
+image for Food Production Supervisor
+Food Production Supervisor
+SATISFACTION:
+ Low
+
+SALARY:
+N/A
+
+Food Production Supervisor
+image for Food Regulatory Consultant
+Food Regulatory Consultant
+SATISFACTION:
+ Very low
+
+SALARY:
+N/A
+
+Food Regulatory Consultant
+image for Food Safety And Quality Technician
+Food Safety And Quality Technician
+SATISFACTION:
+ Low
+
+SALARY:
+$36k
+
+Food Safety And Quality Technician
+image for Food Science Technologist
+Food Science Technologist
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$78k
+
+Food Science Technologist
+image for Food Scientist
+Food Scientist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Food Scientist
+image for Food Server
+Food Server
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$26k
+
+Food Server
+image for Food Stylist
+Food Stylist
+SATISFACTION:
+ Medium
+
+SALARY:
+N/A
+
+Food Stylist
+image for Forensic Pathologist
+Forensic Pathologist
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Forensic Pathologist
+image for Forensic Psychologist
+Forensic Psychologist
+SATISFACTION:
+ High
+
+SALARY:
+N/A
+
+Forensic Psychologist
+image for Forensic Science Technician
+Forensic Science Technician
+Requires Associate Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$61k
+
+Forensic Science Technician
+image for Forensic Scientist
+Forensic Scientist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Forensic Scientist
+image for Forest and Conservation Worker
+Forest and Conservation Worker
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$30k
+
+Forest and Conservation Worker
+image for Forester
+Forester
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$64k
+
+Forester
+image for Fork Lift Operator
+Fork Lift Operator
+SATISFACTION:
+ Very low
+
+SALARY:
+$38k
+
+Fork Lift Operator
+image for Franchise Owner
+Franchise Owner
+SATISFACTION:
+ High
+
+SALARY:
+$57k
+
+Franchise Owner
+image for Fraud Analyst
+Fraud Analyst
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$73k
+
+Fraud Analyst
+image for Freight and Cargo Inspector
+Freight and Cargo Inspector
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$79k
+
+Freight and Cargo Inspector
+image for Front-End Developer
+Front-End Developer
+SATISFACTION:
+ Medium
+
+SALARY:
+$50k
+
+Front-End Developer
+image for Full Stack Developer
+Full Stack Developer
+SATISFACTION:
+ High
+
+SALARY:
+$70k
+
+Full Stack Developer
+image for Fundraiser
+Fundraiser
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$60k
+
+Fundraiser
+image for Fundraising Manager
+Fundraising Manager
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$114k
+
+Fundraising Manager
+image for Funeral Director
+Funeral Director
+Requires Associate Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$48k
+
+Funeral Director
+image for Furniture Finisher
+Furniture Finisher
+Requires High School Diploma
+
+SATISFACTION:
+ Low
+
+SALARY:
+$36k
+
+Furniture Finisher
+image for Gaffer
+Gaffer
+SATISFACTION:
+ High
+
+SALARY:
+$35k
+
+Gaffer
+image for Games Artist
+Games Artist
+SATISFACTION:
+ Very high
+
+SALARY:
+$90k
+
+Games Artist
+image for Games Tester
+Games Tester
+SATISFACTION:
+ Very high
+
+SALARY:
+$29k
+
+Games Tester
+image for Garbage Collector
+Garbage Collector
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$38k
+
+Garbage Collector
+image for Gastroenterologist
+Gastroenterologist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Gastroenterologist
+image for Gemologist
+Gemologist
+SATISFACTION:
+ High
+
+SALARY:
+N/A
+
+Gemologist
+image for Gem Worker
+Gem Worker
+Requires High School Diploma
+
+SATISFACTION:
+ High
+
+SALARY:
+$46k
+
+Gem Worker
+image for Genealogist
+Genealogist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Genealogist
+image for Genetic Counselor
+Genetic Counselor
+SATISFACTION:
+N/A
+
+SALARY:
+$80k
+
+Genetic Counselor
+image for Geneticist
+Geneticist
+Requires Doctorate
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$82k
+
+Geneticist
+image for Genomics Technician
+Genomics Technician
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Genomics Technician
+image for Geodesist
+Geodesist
+SATISFACTION:
+ Medium
+
+SALARY:
+$61k
+
+Geodesist
+image for Geographer
+Geographer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$85k
+
+Geographer
+image for Geologist
+Geologist
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$83k
+
+Geologist
+image for Geospatial Information Scientist
+Geospatial Information Scientist
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$90k
+
+Geospatial Information Scientist
+image for Geotechnical Engineer
+Geotechnical Engineer
+SATISFACTION:
+ Very low
+
+SALARY:
+N/A
+
+Geotechnical Engineer
+image for Geothermal Engineer
+Geothermal Engineer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Geothermal Engineer
+image for Geothermal Technician
+Geothermal Technician
+Requires High School Diploma
+
+SATISFACTION:
+N/A
+
+SALARY:
+$42k
+
+Geothermal Technician
+image for Gerontologist
+Gerontologist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Gerontologist
+image for GIS Analyst
+GIS Analyst
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+GIS Analyst
+image for GIS Technician
+GIS Technician
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+GIS Technician
+image for Glass Blower
+Glass Blower
+Requires No Education
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$37k
+
+Glass Blower
+image for Glazier
+Glazier
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$47k
+
+Glazier
+image for Golf Course Superintendent
+Golf Course Superintendent
+SATISFACTION:
+ Medium
+
+SALARY:
+$33k
+
+Golf Course Superintendent
+image for Golf Pro
+Golf Pro
+SATISFACTION:
+ High
+
+SALARY:
+$35k
+
+Golf Pro
+image for Graduate Teaching Assistant
+Graduate Teaching Assistant
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$33k
+
+Graduate Teaching Assistant
+image for Grain Elevator Worker
+Grain Elevator Worker
+Requires No Education
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$36k
+
+Grain Elevator Worker
+image for Grain & Forage Crop Farmer
+Grain & Forage Crop Farmer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Grain & Forage Crop Farmer
+image for Graphic Designer
+Graphic Designer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$50k
+
+Graphic Designer
+image for Greenhouse Technician
+Greenhouse Technician
+Requires Master's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$40k
+
+Greenhouse Technician
+image for Green Product Marketer
+Green Product Marketer
+SATISFACTION:
+ High
+
+SALARY:
+$127k
+
+Green Product Marketer
+image for Grounds Maintenance Worker
+Grounds Maintenance Worker
+Requires No Education
+
+SATISFACTION:
+ Low
+
+SALARY:
+$34k
+
+Grounds Maintenance Worker
+image for Guide Dog Trainer
+Guide Dog Trainer
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Guide Dog Trainer
+image for Gunsmith
+Gunsmith
+SATISFACTION:
+ High
+
+SALARY:
+N/A
+
+Gunsmith
+image for Gynecologist
+Gynecologist
+Requires Doctorate
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$238k
+
+Gynecologist
+image for Hairdresser
+Hairdresser
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$29k
+
+Hairdresser
+image for Hand Polishing Worker
+Hand Polishing Worker
+Requires High School Diploma
+
+SATISFACTION:
+N/A
+
+SALARY:
+$35k
+
+Hand Polishing Worker
+image for Hand Therapist
+Hand Therapist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Hand Therapist
+image for Hazardous Materials Removal Worker
+Hazardous Materials Removal Worker
+Requires Associate Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$46k
+
+Hazardous Materials Removal Worker
+image for Healthcare Administrator
+Healthcare Administrator
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Healthcare Administrator
+image for Healthcare Social Worker
+Healthcare Social Worker
+Requires Master's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$60k
+
+Healthcare Social Worker
+image for Health Educator
+Health Educator
+Requires Master's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$60k
+
+Health Educator
+image for Health Psychologist
+Health Psychologist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Health Psychologist
+image for Health Services Manager
+Health Services Manager
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$101k
+
+Health Services Manager
+image for Hearing Aid Specialist
+Hearing Aid Specialist
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$59k
+
+Hearing Aid Specialist
+image for Hearing Officer
+Hearing Officer
+Requires Doctorate
+
+SATISFACTION:
+ High
+
+SALARY:
+$102k
+
+Hearing Officer
+image for Heavy Equipment Operator
+Heavy Equipment Operator
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Heavy Equipment Operator
+image for High School Teacher
+High School Teacher
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$61k
+
+High School Teacher
+image for Highway Maintenance Worker
+Highway Maintenance Worker
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$45k
+
+Highway Maintenance Worker
+image for Hippotherapist
+Hippotherapist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Hippotherapist
+image for Historian
+Historian
+Requires Associate Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$63k
+
+Historian
+image for Histotechnologist
+Histotechnologist
+Requires Associate Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$61k
+
+Histotechnologist
+image for Home Health Aide
+Home Health Aide
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$21k
+
+Home Health Aide
+image for Horse Trainer
+Horse Trainer
+SATISFACTION:
+ Very high
+
+SALARY:
+$23k
+
+Horse Trainer
+image for Horticulturist
+Horticulturist
+Requires Associate Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$73k
+
+Horticulturist
+image for Hospitalist
+Hospitalist
+SATISFACTION:
+ Low
+
+SALARY:
+$200k
+
+Hospitalist
+image for Host and Hostess
+Host and Hostess
+SATISFACTION:
+ Very low
+
+SALARY:
+$24k
+
+Host and Hostess
+image for Housekeeper
+Housekeeper
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$28k
+
+Housekeeper
+image for Humanitarian
+Humanitarian
+Requires Master's Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$37k
+
+Humanitarian
+image for Human Resources Manager
+Human Resources Manager
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$126k
+
+Human Resources Manager
+image for HVAC Technician
+HVAC Technician
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$48k
+
+HVAC Technician
+image for Hydroelectric Plant Technician
+Hydroelectric Plant Technician
+SATISFACTION:
+N/A
+
+SALARY:
+$50k
+
+Hydroelectric Plant Technician
+image for Hydrologist
+Hydrologist
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$84k
+
+Hydrologist
+image for Hypnotherapist
+Hypnotherapist
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Hypnotherapist
+image for Illustrator
+Illustrator
+Requires Associate Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$60k
+
+Illustrator
+image for Immunologist
+Immunologist
+Requires Doctorate
+
+SATISFACTION:
+ Low
+
+SALARY:
+$200k
+
+Immunologist
+image for Industrial Designer
+Industrial Designer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$77k
+
+Industrial Designer
+image for Industrial Ecologist
+Industrial Ecologist
+SATISFACTION:
+ Medium
+
+SALARY:
+$76k
+
+Industrial Ecologist
+image for Industrial Engineer
+Industrial Engineer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$95k
+
+Industrial Engineer
+image for Industrial Engineering Technician
+Industrial Engineering Technician
+SATISFACTION:
+ Low
+
+SALARY:
+$60k
+
+Industrial Engineering Technician
+image for Industrial Organizational Psychologist
+Industrial Organizational Psychologist
+Requires Doctorate
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$105k
+
+Industrial Organizational Psychologist
+image for Industrial Production Manager
+Industrial Production Manager
+Requires Associate Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$103k
+
+Industrial Production Manager
+image for Infantry Soldier
+Infantry Soldier
+SATISFACTION:
+ Low
+
+SALARY:
+$30k
+
+Infantry Soldier
+image for Influencer
+Influencer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Influencer
+image for Informaticist
+Informaticist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Informaticist
+image for Informatics Nurse Specialist
+Informatics Nurse Specialist
+SATISFACTION:
+ Medium
+
+SALARY:
+$88k
+
+Informatics Nurse Specialist
+image for Information Architect
+Information Architect
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Information Architect
+image for Information Security Analyst
+Information Security Analyst
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$98k
+
+Information Security Analyst
+image for Information Security Auditor
+Information Security Auditor
+SATISFACTION:
+ Very low
+
+SALARY:
+N/A
+
+Information Security Auditor
+image for Information Security Director
+Information Security Director
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Information Security Director
+image for Information Security Manager
+Information Security Manager
+SATISFACTION:
+ Low
+
+SALARY:
+N/A
+
+Information Security Manager
+image for Insurance Appraiser
+Insurance Appraiser
+Requires Associate Degree
+
+SATISFACTION:
+N/A
+
+SALARY:
+$62k
+
+Insurance Appraiser
+image for Insurance Sales Agent
+Insurance Sales Agent
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$49k
+
+Insurance Sales Agent
+image for Intelligence Analyst
+Intelligence Analyst
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$83k
+
+Intelligence Analyst
+image for Interior Architect
+Interior Architect
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Interior Architect
+image for Interior Designer
+Interior Designer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$60k
+
+Interior Designer
+image for Internist
+Internist
+Requires Doctorate
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$194k
+
+Internist
+image for Investment Banker
+Investment Banker
+SATISFACTION:
+ Very low
+
+SALARY:
+$73k
+
+Investment Banker
+image for Investment Fund Manager
+Investment Fund Manager
+Requires Master's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$124k
+
+Investment Fund Manager
+image for Ironworker
+Ironworker
+Requires High School Diploma
+
+SATISFACTION:
+ Low
+
+SALARY:
+$58k
+
+Ironworker
+image for Irrigation Technician
+Irrigation Technician
+Requires No Education
+
+SATISFACTION:
+ Low
+
+SALARY:
+$34k
+
+Irrigation Technician
+image for IT Manager
+IT Manager
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$78k
+
+IT Manager
+image for IT Security Consultant
+IT Security Consultant
+SATISFACTION:
+ Medium
+
+SALARY:
+$60k
+
+IT Security Consultant
+image for IT Support Specialist
+IT Support Specialist
+Requires Associate Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$49k
+
+IT Support Specialist
+image for Janitor
+Janitor
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$29k
+
+Janitor
+image for Javascript Developer
+Javascript Developer
+SATISFACTION:
+ High
+
+SALARY:
+N/A
+
+Javascript Developer
+image for Jeweler
+Jeweler
+Requires Associate Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$46k
+
+Jeweler
+image for Jingle Writer
+Jingle Writer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Jingle Writer
+image for Jockey
+Jockey
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Jockey
+image for Journalist
+Journalist
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$37k
+
+Journalist
+image for Judge
+Judge
+Requires Doctorate
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$148k
+
+Judge
+image for Judicial Law Clerk
+Judicial Law Clerk
+Requires Doctorate
+
+SATISFACTION:
+ Low
+
+SALARY:
+$50k
+
+Judicial Law Clerk
+image for Juggler
+Juggler
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Juggler
+image for Kennel Technician
+Kennel Technician
+SATISFACTION:
+ High
+
+SALARY:
+$19k
+
+Kennel Technician
+image for Kindergarten Teacher
+Kindergarten Teacher
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$60k
+
+Kindergarten Teacher
+image for Kinesiologist
+Kinesiologist
+SATISFACTION:
+ Medium
+
+SALARY:
+$30k
+
+Kinesiologist
+image for Landscape Architect
+Landscape Architect
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$67k
+
+Landscape Architect
+image for Landscaper
+Landscaper
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$48k
+
+Landscaper
+image for Laser Technician
+Laser Technician
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Laser Technician
+image for Lawn Care Specialist
+Lawn Care Specialist
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$38k
+
+Lawn Care Specialist
+image for Lawyer
+Lawyer
+Requires Master's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$127k
+
+Lawyer
+image for Leather and Shoe Worker
+Leather and Shoe Worker
+Requires High School Diploma
+
+SATISFACTION:
+ High
+
+SALARY:
+$25k
+
+Leather and Shoe Worker
+image for Legal Secretary
+Legal Secretary
+Requires Associate Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$47k
+
+Legal Secretary
+image for Legislator
+Legislator
+SATISFACTION:
+ High
+
+SALARY:
+$37k
+
+Legislator
+image for Librarian
+Librarian
+Requires Master's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$59k
+
+Librarian
+image for Library Assistant
+Library Assistant
+Requires High School Diploma
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$29k
+
+Library Assistant
+image for Librettist
+Librettist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Librettist
+image for Licensed Practical Nurse
+Licensed Practical Nurse
+Requires Associate Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$48k
+
+Licensed Practical Nurse
+image for Life Coach
+Life Coach
+SATISFACTION:
+ Very high
+
+SALARY:
+$46k
+
+Life Coach
+image for Lifeguard
+Lifeguard
+Requires High School Diploma
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$25k
+
+Lifeguard
+image for Live Sound Engineer
+Live Sound Engineer
+SATISFACTION:
+ Very high
+
+SALARY:
+$31k
+
+Live Sound Engineer
+image for Livestock Feed Sales Representative
+Livestock Feed Sales Representative
+SATISFACTION:
+ Medium
+
+SALARY:
+N/A
+
+Livestock Feed Sales Representative
+image for Loan Officer
+Loan Officer
+Requires Associate Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$63k
+
+Loan Officer
+image for Lobbyist
+Lobbyist
+SATISFACTION:
+ High
+
+SALARY:
+$49k
+
+Lobbyist
+image for Locksmith
+Locksmith
+Requires High School Diploma
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$46k
+
+Locksmith
+image for Locomotive Engineer
+Locomotive Engineer
+Requires High School Diploma
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$79k
+
+Locomotive Engineer
+image for Lodging Manager
+Lodging Manager
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$59k
+
+Lodging Manager
+image for Logging Worker
+Logging Worker
+Requires No Education
+
+SATISFACTION:
+ Low
+
+SALARY:
+$47k
+
+Logging Worker
+image for Log Grader
+Log Grader
+Requires High School Diploma
+
+SATISFACTION:
+N/A
+
+SALARY:
+$37k
+
+Log Grader
+image for Logistician
+Logistician
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$77k
+
+Logistician
+image for Luthier
+Luthier
+SATISFACTION:
+ Very high
+
+SALARY:
+$30k
+
+Luthier
+image for Lyricist
+Lyricist
+SATISFACTION:
+ Very high
+
+SALARY:
+$25k
+
+Lyricist
+image for Machine Assembler
+Machine Assembler
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$47k
+
+Machine Assembler
+image for Machine Feeder
+Machine Feeder
+Requires High School Diploma
+
+SATISFACTION:
+N/A
+
+SALARY:
+$37k
+
+Machine Feeder
+image for Machine Learning Engineer
+Machine Learning Engineer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Machine Learning Engineer
+image for Machinist
+Machinist
+Requires Associate Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$47k
+
+Machinist
+image for Magician
+Magician
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Magician
+image for Mail Superintendent
+Mail Superintendent
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$80k
+
+Mail Superintendent
+image for Maintenance Worker
+Maintenance Worker
+SATISFACTION:
+ Low
+
+SALARY:
+$43k
+
+Maintenance Worker
+image for Make-Up Artist
+Make-Up Artist
+Requires Associate Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$134k
+
+Make-Up Artist
+image for Mammalogist
+Mammalogist
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Mammalogist
+image for Management Consultant
+Management Consultant
+SATISFACTION:
+ Medium
+
+SALARY:
+$87k
+
+Management Consultant
+image for Manufacturing Engineer
+Manufacturing Engineer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Manufacturing Engineer
+image for Marine Biologist
+Marine Biologist
+SATISFACTION:
+ Very high
+
+SALARY:
+$32k
+
+Marine Biologist
+image for Marine Electrician
+Marine Electrician
+SATISFACTION:
+ Very low
+
+SALARY:
+$77k
+
+Marine Electrician
+image for Marine Engineer
+Marine Engineer
+SATISFACTION:
+ Medium
+
+SALARY:
+$93k
+
+Marine Engineer
+image for Marine Mammal Trainer
+Marine Mammal Trainer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Marine Mammal Trainer
+image for Marketing Manager
+Marketing Manager
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$135k
+
+Marketing Manager
+image for Market Research Analyst
+Market Research Analyst
+SATISFACTION:
+ Low
+
+SALARY:
+$63k
+
+Market Research Analyst
+image for Marriage Therapist
+Marriage Therapist
+Requires Master's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$49k
+
+Marriage Therapist
+image for Massage Therapist
+Massage Therapist
+Requires Associate Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$46k
+
+Massage Therapist
+image for Master Distiller
+Master Distiller
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Master Distiller
+image for Materials Scientist
+Materials Scientist
+Requires Doctorate
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$100k
+
+Materials Scientist
+image for Mathematician
+Mathematician
+Requires Master's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$108k
+
+Mathematician
+image for Mayor
+Mayor
+SATISFACTION:
+ High
+
+SALARY:
+N/A
+
+Mayor
+image for Mechanical Engineer
+Mechanical Engineer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$95k
+
+Mechanical Engineer
+image for Mechatronics Engineer
+Mechatronics Engineer
+SATISFACTION:
+ High
+
+SALARY:
+$100k
+
+Mechatronics Engineer
+image for Medical Administrative Assistant
+Medical Administrative Assistant
+Requires Associate Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$37k
+
+Medical Administrative Assistant
+image for Medical Appliance Technician
+Medical Appliance Technician
+SATISFACTION:
+ Low
+
+SALARY:
+$45k
+
+Medical Appliance Technician
+image for Medical Assistant
+Medical Assistant
+Requires Associate Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$37k
+
+Medical Assistant
+image for Medical Billing & Coding Technician
+Medical Billing & Coding Technician
+SATISFACTION:
+ Very low
+
+SALARY:
+$40k
+
+Medical Billing & Coding Technician
+image for Medical Laboratory Technician
+Medical Laboratory Technician
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$30k
+
+Medical Laboratory Technician
+image for Medical Laboratory Technologist
+Medical Laboratory Technologist
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$46k
+
+Medical Laboratory Technologist
+image for Medical Transcriptionist
+Medical Transcriptionist
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$30k
+
+Medical Transcriptionist
+image for Mental Health Counselor
+Mental Health Counselor
+Requires Master's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$35k
+
+Mental Health Counselor
+image for Merchandiser
+Merchandiser
+SATISFACTION:
+ Low
+
+SALARY:
+$32k
+
+Merchandiser
+image for Metal Caster
+Metal Caster
+Requires High School Diploma
+
+SATISFACTION:
+ Low
+
+SALARY:
+$45k
+
+Metal Caster
+image for Metal Worker
+Metal Worker
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$36k
+
+Metal Worker
+image for Meteorologist
+Meteorologist
+SATISFACTION:
+ Medium
+
+SALARY:
+$42k
+
+Meteorologist
+image for Meter Reader
+Meter Reader
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$45k
+
+Meter Reader
+image for Microbiologist
+Microbiologist
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$79k
+
+Microbiologist
+image for Midwife
+Midwife
+Requires Associate Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$58k
+
+Midwife
+image for Military Tactical Operations Leader
+Military Tactical Operations Leader
+SATISFACTION:
+ Medium
+
+SALARY:
+$39k
+
+Military Tactical Operations Leader
+image for Millwright
+Millwright
+Requires High School Diploma
+
+SATISFACTION:
+ Low
+
+SALARY:
+$60k
+
+Millwright
+image for Mine Shuttle Car Operator
+Mine Shuttle Car Operator
+Requires High School Diploma
+
+SATISFACTION:
+N/A
+
+SALARY:
+$56k
+
+Mine Shuttle Car Operator
+image for Mining and Geological Engineer
+Mining and Geological Engineer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$97k
+
+Mining and Geological Engineer
+image for Mining Machine Operator
+Mining Machine Operator
+SATISFACTION:
+ Very low
+
+SALARY:
+$60k
+
+Mining Machine Operator
+image for Model
+Model
+Requires No Education
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$31k
+
+Model
+image for Model Maker
+Model Maker
+Requires High School Diploma
+
+SATISFACTION:
+ High
+
+SALARY:
+$60k
+
+Model Maker
+image for Molding and Casting Worker
+Molding and Casting Worker
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$37k
+
+Molding and Casting Worker
+image for Molecular Biologist
+Molecular Biologist
+Requires Doctorate
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$82k
+
+Molecular Biologist
+image for Money Manager
+Money Manager
+SATISFACTION:
+ Medium
+
+SALARY:
+$69k
+
+Money Manager
+image for Motivational Speaker
+Motivational Speaker
+SATISFACTION:
+ Very high
+
+SALARY:
+$55k
+
+Motivational Speaker
+image for Motorcycle Mechanic
+Motorcycle Mechanic
+Requires Associate Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$38k
+
+Motorcycle Mechanic
+image for MRI Technologist
+MRI Technologist
+Requires Associate Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$77k
+
+MRI Technologist
+image for Multimedia Animator
+Multimedia Animator
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$78k
+
+Multimedia Animator
+image for Museum Conservator
+Museum Conservator
+Requires Master's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$47k
+
+Museum Conservator
+image for Music Arranger
+Music Arranger
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Music Arranger
+image for Music Artist
+Music Artist
+SATISFACTION:
+ Very high
+
+SALARY:
+$63k
+
+Music Artist
+image for Music Business Manager
+Music Business Manager
+SATISFACTION:
+ High
+
+SALARY:
+$32k
+
+Music Business Manager
+image for Music Contractor
+Music Contractor
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Music Contractor
+image for Music Copyist
+Music Copyist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Music Copyist
+image for Music Critic
+Music Critic
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Music Critic
+image for Music Editor
+Music Editor
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Music Editor
+image for Music Executive
+Music Executive
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Music Executive
+image for Music Historian
+Music Historian
+SATISFACTION:
+ High
+
+SALARY:
+N/A
+
+Music Historian
+image for Musician
+Musician
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$63k
+
+Musician
+image for Music Librarian
+Music Librarian
+SATISFACTION:
+ Medium
+
+SALARY:
+N/A
+
+Music Librarian
+image for Music Manager
+Music Manager
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Music Manager
+image for Music Producer
+Music Producer
+SATISFACTION:
+ Very high
+
+SALARY:
+$34k
+
+Music Producer
+image for Music Promoter
+Music Promoter
+SATISFACTION:
+ Very high
+
+SALARY:
+$31k
+
+Music Promoter
+image for Music Publicist
+Music Publicist
+SATISFACTION:
+ High
+
+SALARY:
+N/A
+
+Music Publicist
+image for Music Publisher
+Music Publisher
+SATISFACTION:
+ High
+
+SALARY:
+N/A
+
+Music Publisher
+image for Music Studio Owner
+Music Studio Owner
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Music Studio Owner
+image for Music Supervisor
+Music Supervisor
+SATISFACTION:
+ High
+
+SALARY:
+N/A
+
+Music Supervisor
+image for Music Teacher
+Music Teacher
+Requires Master's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$75k
+
+Music Teacher
+image for Music Therapist
+Music Therapist
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$47k
+
+Music Therapist
+image for Nail Technician
+Nail Technician
+Requires High School Diploma
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$29k
+
+Nail Technician
+image for Nanny
+Nanny
+Requires High School Diploma
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$27k
+
+Nanny
+image for Nanosystems Engineer
+Nanosystems Engineer
+SATISFACTION:
+N/A
+
+SALARY:
+$100k
+
+Nanosystems Engineer
+image for Nanotechnology Engineer
+Nanotechnology Engineer
+SATISFACTION:
+ Very high
+
+SALARY:
+$100k
+
+Nanotechnology Engineer
+image for Natural Resource Manager
+Natural Resource Manager
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Natural Resource Manager
+image for Natural Sciences Manager
+Natural Sciences Manager
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$137k
+
+Natural Sciences Manager
+image for Naturopath
+Naturopath
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Naturopath
+image for Naturopathic Physician
+Naturopathic Physician
+Requires Doctorate
+
+SATISFACTION:
+ High
+
+SALARY:
+$73k
+
+Naturopathic Physician
+image for Naval Architect
+Naval Architect
+Requires Doctorate
+
+SATISFACTION:
+ High
+
+SALARY:
+$93k
+
+Naval Architect
+image for Navy Officer
+Navy Officer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Navy Officer
+image for Network Administrator
+Network Administrator
+SATISFACTION:
+ Medium
+
+SALARY:
+$47k
+
+Network Administrator
+image for Network Architect
+Network Architect
+SATISFACTION:
+ Medium
+
+SALARY:
+$109k
+
+Network Architect
+image for Neurodiagnostic Technologist
+Neurodiagnostic Technologist
+Requires Associate Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$45k
+
+Neurodiagnostic Technologist
+image for Neurologist
+Neurologist
+Requires Doctorate
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$200k
+
+Neurologist
+image for Neuropsychologist
+Neuropsychologist
+SATISFACTION:
+ Very high
+
+SALARY:
+$102k
+
+Neuropsychologist
+image for Neuroscientist
+Neuroscientist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Neuroscientist
+image for Neurosurgeon
+Neurosurgeon
+SATISFACTION:
+ Very high
+
+SALARY:
+$255k
+
+Neurosurgeon
+image for News Anchor
+News Anchor
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$66k
+
+News Anchor
+image for News Reporter
+News Reporter
+SATISFACTION:
+ Medium
+
+SALARY:
+$27k
+
+News Reporter
+image for Non-Destructive Testing Specialist
+Non-Destructive Testing Specialist
+Requires High School Diploma
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$61k
+
+Non-Destructive Testing Specialist
+image for Nuclear Engineer
+Nuclear Engineer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$120k
+
+Nuclear Engineer
+image for Nuclear Medicine Technologist
+Nuclear Medicine Technologist
+SATISFACTION:
+ Very low
+
+SALARY:
+$78k
+
+Nuclear Medicine Technologist
+image for Nurse
+Nurse
+Requires Associate Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$43k
+
+Nurse
+image for Nurse Anesthetist
+Nurse Anesthetist
+Requires Master's Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$195k
+
+Nurse Anesthetist
+image for Nurse Educator
+Nurse Educator
+SATISFACTION:
+ High
+
+SALARY:
+$77k
+
+Nurse Educator
+image for Nurse Practitioner
+Nurse Practitioner
+Requires Master's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$120k
+
+Nurse Practitioner
+image for Nursery Worker
+Nursery Worker
+Requires High School Diploma
+
+SATISFACTION:
+ Low
+
+SALARY:
+$29k
+
+Nursery Worker
+image for Nutritionist
+Nutritionist
+SATISFACTION:
+ Medium
+
+SALARY:
+$32k
+
+Nutritionist
+image for Occupational Health Specialist
+Occupational Health Specialist
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$73k
+
+Occupational Health Specialist
+image for Occupational Physician
+Occupational Physician
+SATISFACTION:
+N/A
+
+SALARY:
+$200k
+
+Occupational Physician
+image for Occupational Therapist
+Occupational Therapist
+Requires Master's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$85k
+
+Occupational Therapist
+image for Occupational Therapist Assistant
+Occupational Therapist Assistant
+SATISFACTION:
+ Low
+
+SALARY:
+$61k
+
+Occupational Therapist Assistant
+image for Oceanographer
+Oceanographer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Oceanographer
+image for Ocularist
+Ocularist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Ocularist
+image for Office Clerk
+Office Clerk
+SATISFACTION:
+ Very low
+
+SALARY:
+$37k
+
+Office Clerk
+image for Office Manager
+Office Manager
+SATISFACTION:
+ Low
+
+SALARY:
+$60k
+
+Office Manager
+image for Oncologist
+Oncologist
+SATISFACTION:
+ Medium
+
+SALARY:
+N/A
+
+Oncologist
+image for Online Merchant
+Online Merchant
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$74k
+
+Online Merchant
+image for Operations Manager
+Operations Manager
+SATISFACTION:
+ Low
+
+SALARY:
+$97k
+
+Operations Manager
+image for Operations Research Analyst
+Operations Research Analyst
+SATISFACTION:
+ Low
+
+SALARY:
+$82k
+
+Operations Research Analyst
+image for Ophthalmic Medical Technician
+Ophthalmic Medical Technician
+SATISFACTION:
+ Low
+
+SALARY:
+$37k
+
+Ophthalmic Medical Technician
+image for Ophthalmic Medical Technologist
+Ophthalmic Medical Technologist
+SATISFACTION:
+N/A
+
+SALARY:
+$45k
+
+Ophthalmic Medical Technologist
+image for Ophthalmologist
+Ophthalmologist
+Requires Doctorate
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$200k
+
+Ophthalmologist
+image for Optical Engineer
+Optical Engineer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Optical Engineer
+image for Optician
+Optician
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$37k
+
+Optician
+image for Optometric Technician
+Optometric Technician
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Optometric Technician
+image for Optometrist
+Optometrist
+Requires Doctorate
+
+SATISFACTION:
+ Low
+
+SALARY:
+$124k
+
+Optometrist
+image for Oral and Maxillofacial Surgeon
+Oral and Maxillofacial Surgeon
+SATISFACTION:
+N/A
+
+SALARY:
+$311k
+
+Oral and Maxillofacial Surgeon
+image for Orchestrator
+Orchestrator
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Orchestrator
+image for Orderly
+Orderly
+SATISFACTION:
+ Very low
+
+SALARY:
+$25k
+
+Orderly
+image for Organic Farmer
+Organic Farmer
+SATISFACTION:
+ Very high
+
+SALARY:
+$23k
+
+Organic Farmer
+image for Orthodontist
+Orthodontist
+Requires Doctorate
+
+SATISFACTION:
+ High
+
+SALARY:
+$267k
+
+Orthodontist
+image for Orthopaedic Surgeon
+Orthopaedic Surgeon
+SATISFACTION:
+ Very high
+
+SALARY:
+$255k
+
+Orthopaedic Surgeon
+image for Orthoptist
+Orthoptist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Orthoptist
+image for Orthotist and Prosthetist
+Orthotist and Prosthetist
+SATISFACTION:
+ Low
+
+SALARY:
+$75k
+
+Orthotist and Prosthetist
+image for Osteopath
+Osteopath
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Osteopath
+image for Otolaryngologist
+Otolaryngologist
+SATISFACTION:
+ Medium
+
+SALARY:
+N/A
+
+Otolaryngologist
+image for Painter
+Painter
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$45k
+
+Painter
+image for Painting, Coating & Decorating Worker
+Painting, Coating & Decorating Worker
+Requires No Education
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$37k
+
+Painting, Coating & Decorating Worker
+image for Paleontologist
+Paleontologist
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Paleontologist
+image for Paralegal
+Paralegal
+Requires Associate Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$56k
+
+Paralegal
+image for Paramedic
+Paramedic
+Requires Associate Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$34k
+
+Paramedic
+image for Park Naturalist
+Park Naturalist
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$63k
+
+Park Naturalist
+image for Park Ranger
+Park Ranger
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$28k
+
+Park Ranger
+image for Particle Physicist
+Particle Physicist
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Particle Physicist
+image for Pastry Chef
+Pastry Chef
+Requires High School Diploma
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$25k
+
+Pastry Chef
+image for Pathologist
+Pathologist
+Requires Doctorate
+
+SATISFACTION:
+ Low
+
+SALARY:
+$200k
+
+Pathologist
+image for Pediatrician
+Pediatrician
+Requires Doctorate
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$170k
+
+Pediatrician
+image for Performer
+Performer
+Requires High School Diploma
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$37k
+
+Performer
+image for Perfusionist
+Perfusionist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Perfusionist
+image for Periodontist
+Periodontist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Periodontist
+image for Personal Care Aide
+Personal Care Aide
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$25k
+
+Personal Care Aide
+image for Personal Chef
+Personal Chef
+Requires Associate Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$42k
+
+Personal Chef
+image for Personal Trainer
+Personal Trainer
+SATISFACTION:
+ High
+
+SALARY:
+$34k
+
+Personal Trainer
+image for Pet Adoption Counselor
+Pet Adoption Counselor
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Pet Adoption Counselor
+image for Pet Detective
+Pet Detective
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Pet Detective
+image for Petroleum Engineer
+Petroleum Engineer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$130k
+
+Petroleum Engineer
+image for Petroleum Pump System Operator
+Petroleum Pump System Operator
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$79k
+
+Petroleum Pump System Operator
+image for Pharmaceutical Sales Representative
+Pharmaceutical Sales Representative
+SATISFACTION:
+ Very low
+
+SALARY:
+$94k
+
+Pharmaceutical Sales Representative
+image for Pharmaceutical Scientist
+Pharmaceutical Scientist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Pharmaceutical Scientist
+image for Pharmacist
+Pharmacist
+Requires Master's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$128k
+
+Pharmacist
+image for Pharmacy Technician
+Pharmacy Technician
+SATISFACTION:
+ Very low
+
+SALARY:
+$36k
+
+Pharmacy Technician
+image for Phlebotomist
+Phlebotomist
+Requires Associate Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$37k
+
+Phlebotomist
+image for Photographer
+Photographer
+Requires Associate Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$38k
+
+Photographer
+image for Photojournalist
+Photojournalist
+SATISFACTION:
+ Very high
+
+SALARY:
+$35k
+
+Photojournalist
+image for Photonics Engineer
+Photonics Engineer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$100k
+
+Photonics Engineer
+image for Physical Education Teacher
+Physical Education Teacher
+Requires Doctorate
+
+SATISFACTION:
+ High
+
+SALARY:
+$72k
+
+Physical Education Teacher
+image for Physical Therapist
+Physical Therapist
+Requires Master's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$95k
+
+Physical Therapist
+image for Physical Therapist Assistant
+Physical Therapist Assistant
+SATISFACTION:
+ Medium
+
+SALARY:
+$61k
+
+Physical Therapist Assistant
+image for Physician Assistant
+Physician Assistant
+Requires Master's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$121k
+
+Physician Assistant
+image for Physicist
+Physicist
+Requires Doctorate
+
+SATISFACTION:
+ High
+
+SALARY:
+$152k
+
+Physicist
+image for Physiologist
+Physiologist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Physiologist
+image for Physiotherapist
+Physiotherapist
+SATISFACTION:
+ Low
+
+SALARY:
+N/A
+
+Physiotherapist
+image for Piano Accompanist
+Piano Accompanist
+SATISFACTION:
+ Very high
+
+SALARY:
+$47k
+
+Piano Accompanist
+image for Piano Tuner
+Piano Tuner
+Requires Associate Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$37k
+
+Piano Tuner
+image for Pilot
+Pilot
+Requires Associate Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$202k
+
+Pilot
+image for Pipefitter
+Pipefitter
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$59k
+
+Pipefitter
+image for Pipelayer
+Pipelayer
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$45k
+
+Pipelayer
+image for Plasterer
+Plasterer
+Requires No Education
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$48k
+
+Plasterer
+image for Plastic Surgeon
+Plastic Surgeon
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Plastic Surgeon
+image for Plumber
+Plumber
+SATISFACTION:
+ Very low
+
+SALARY:
+$59k
+
+Plumber
+image for Podcast Host
+Podcast Host
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Podcast Host
+image for Podiatrist
+Podiatrist
+Requires Doctorate
+
+SATISFACTION:
+ Low
+
+SALARY:
+$145k
+
+Podiatrist
+image for Police Officer
+Police Officer
+Requires Associate Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$64k
+
+Police Officer
+image for Political Scientist
+Political Scientist
+Requires Doctorate
+
+SATISFACTION:
+ High
+
+SALARY:
+$122k
+
+Political Scientist
+image for Postal Service Clerk
+Postal Service Clerk
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$52k
+
+Postal Service Clerk
+image for Postal Service Worker
+Postal Service Worker
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$52k
+
+Postal Service Worker
+image for Potter
+Potter
+Requires Associate Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$37k
+
+Potter
+image for Poultry Farmer
+Poultry Farmer
+SATISFACTION:
+ Low
+
+SALARY:
+N/A
+
+Poultry Farmer
+image for Power Engineer
+Power Engineer
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$63k
+
+Power Engineer
+image for Power Plant Operator
+Power Plant Operator
+Requires High School Diploma
+
+SATISFACTION:
+ Low
+
+SALARY:
+$80k
+
+Power Plant Operator
+image for Precious Metal Worker
+Precious Metal Worker
+Requires Associate Degree
+
+SATISFACTION:
+N/A
+
+SALARY:
+$46k
+
+Precious Metal Worker
+image for Preschool Teacher
+Preschool Teacher
+Requires Associate Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$30k
+
+Preschool Teacher
+image for Principal
+Principal
+Requires Master's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$98k
+
+Principal
+image for Printing Worker
+Printing Worker
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$37k
+
+Printing Worker
+image for Printmaker
+Printmaker
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Printmaker
+image for Private Detective
+Private Detective
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$59k
+
+Private Detective
+image for Probation Officer
+Probation Officer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$60k
+
+Probation Officer
+image for Producer
+Producer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$79k
+
+Producer
+image for Product Manager
+Product Manager
+SATISFACTION:
+ Medium
+
+SALARY:
+$85k
+
+Product Manager
+image for Product Safety Engineer
+Product Safety Engineer
+SATISFACTION:
+ Very low
+
+SALARY:
+$99k
+
+Product Safety Engineer
+image for Professor
+Professor
+Requires Doctorate
+
+SATISFACTION:
+ High
+
+SALARY:
+$63k
+
+Professor
+image for Program Director
+Program Director
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Program Director
+image for Projectionist
+Projectionist
+Requires No Education
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$29k
+
+Projectionist
+image for Project Manager
+Project Manager
+SATISFACTION:
+ Low
+
+SALARY:
+$54k
+
+Project Manager
+image for Proofreader
+Proofreader
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$43k
+
+Proofreader
+image for Property Manager
+Property Manager
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$59k
+
+Property Manager
+image for Prosthodontist
+Prosthodontist
+SATISFACTION:
+ Low
+
+SALARY:
+$100k
+
+Prosthodontist
+image for Psychiatric Aide
+Psychiatric Aide
+SATISFACTION:
+ Low
+
+SALARY:
+$28k
+
+Psychiatric Aide
+image for Psychiatric Technician
+Psychiatric Technician
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$36k
+
+Psychiatric Technician
+image for Psychiatrist
+Psychiatrist
+Requires Doctorate
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$220k
+
+Psychiatrist
+image for Psychoanalyst
+Psychoanalyst
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Psychoanalyst
+image for Psychologist
+Psychologist
+Requires Doctorate
+
+SATISFACTION:
+ High
+
+SALARY:
+$56k
+
+Psychologist
+image for Psychotherapist
+Psychotherapist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Psychotherapist
+image for Public Administrator
+Public Administrator
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Public Administrator
+image for Publicist
+Publicist
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$62k
+
+Publicist
+image for Public Relations Specialist
+Public Relations Specialist
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$62k
+
+Public Relations Specialist
+image for Publisher
+Publisher
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Publisher
+image for Pulmonologist
+Pulmonologist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Pulmonologist
+image for Pump Operator
+Pump Operator
+Requires High School Diploma
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$49k
+
+Pump Operator
+image for Purchasing Agent
+Purchasing Agent
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Purchasing Agent
+image for Purchasing Manager
+Purchasing Manager
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$127k
+
+Purchasing Manager
+image for Quality Assurance Analyst
+Quality Assurance Analyst
+SATISFACTION:
+ Very low
+
+SALARY:
+$41k
+
+Quality Assurance Analyst
+image for Quality Control Inspector
+Quality Control Inspector
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$49k
+
+Quality Control Inspector
+image for Quarry Rock Splitter
+Quarry Rock Splitter
+Requires No Education
+
+SATISFACTION:
+ Low
+
+SALARY:
+$37k
+
+Quarry Rock Splitter
+image for Racehorse Trainer
+Racehorse Trainer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Racehorse Trainer
+image for Radiation Therapist
+Radiation Therapist
+Requires Associate Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$82k
+
+Radiation Therapist
+image for Radio Frequency Specialist
+Radio Frequency Specialist
+SATISFACTION:
+ Low
+
+SALARY:
+$104k
+
+Radio Frequency Specialist
+image for Radiologic Technologist
+Radiologic Technologist
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$61k
+
+Radiologic Technologist
+image for Radiologist
+Radiologist
+Requires Doctorate
+
+SATISFACTION:
+ High
+
+SALARY:
+$200k
+
+Radiologist
+image for Radio Mechanic
+Radio Mechanic
+Requires Associate Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$60k
+
+Radio Mechanic
+image for Radio Talk Show Host
+Radio Talk Show Host
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Radio Talk Show Host
+image for Rail Transportation Worker
+Rail Transportation Worker
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$61k
+
+Rail Transportation Worker
+image for Rancher
+Rancher
+SATISFACTION:
+ Very high
+
+SALARY:
+$25k
+
+Rancher
+image for Range Manager
+Range Manager
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$63k
+
+Range Manager
+image for Real Estate Agent
+Real Estate Agent
+Requires High School Diploma
+
+SATISFACTION:
+ Low
+
+SALARY:
+$48k
+
+Real Estate Agent
+image for Real Estate Appraiser
+Real Estate Appraiser
+SATISFACTION:
+ Low
+
+SALARY:
+$54k
+
+Real Estate Appraiser
+image for Receptionist
+Receptionist
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$29k
+
+Receptionist
+image for Recipe Developer
+Recipe Developer
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Recipe Developer
+image for Recording Engineer
+Recording Engineer
+SATISFACTION:
+ Very high
+
+SALARY:
+$33k
+
+Recording Engineer
+image for Recreational Therapist
+Recreational Therapist
+SATISFACTION:
+ High
+
+SALARY:
+$47k
+
+Recreational Therapist
+image for Recreational Vehicle Service Technician
+Recreational Vehicle Service Technician
+Requires Associate Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$43k
+
+Recreational Vehicle Service Technician
+image for Recreation Worker
+Recreation Worker
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$29k
+
+Recreation Worker
+image for Recruiter
+Recruiter
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$62k
+
+Recruiter
+image for Referee
+Referee
+Requires High School Diploma
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$35k
+
+Referee
+image for Registered Dietitian
+Registered Dietitian
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$61k
+
+Registered Dietitian
+image for Registered Nurse
+Registered Nurse
+Requires Associate Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$77k
+
+Registered Nurse
+image for Rehabilitation Counselor
+Rehabilitation Counselor
+Requires Master's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$38k
+
+Rehabilitation Counselor
+image for Remote Sensing Technician
+Remote Sensing Technician
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$49k
+
+Remote Sensing Technician
+image for Research Chef
+Research Chef
+SATISFACTION:
+ High
+
+SALARY:
+N/A
+
+Research Chef
+image for Residential Advisor
+Residential Advisor
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Residential Advisor
+image for Respiratory Therapist
+Respiratory Therapist
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$61k
+
+Respiratory Therapist
+image for Restaurant Cook
+Restaurant Cook
+SATISFACTION:
+ Very low
+
+SALARY:
+$30k
+
+Restaurant Cook
+image for Restaurant Manager
+Restaurant Manager
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$59k
+
+Restaurant Manager
+image for Retail Manager
+Retail Manager
+SATISFACTION:
+ Very low
+
+SALARY:
+$39k
+
+Retail Manager
+image for Retail Salesperson
+Retail Salesperson
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$29k
+
+Retail Salesperson
+image for Revenue Agent
+Revenue Agent
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$56k
+
+Revenue Agent
+image for Rigger
+Rigger
+Requires High School Diploma
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$48k
+
+Rigger
+image for Risk Management Specialist
+Risk Management Specialist
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$73k
+
+Risk Management Specialist
+image for Road Manager
+Road Manager
+SATISFACTION:
+ High
+
+SALARY:
+N/A
+
+Road Manager
+image for Robotics Engineer
+Robotics Engineer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$100k
+
+Robotics Engineer
+image for Roofer
+Roofer
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$47k
+
+Roofer
+image for Rotary Drill Operator
+Rotary Drill Operator
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$56k
+
+Rotary Drill Operator
+image for Sailor
+Sailor
+Requires High School Diploma
+
+SATISFACTION:
+ Low
+
+SALARY:
+$46k
+
+Sailor
+image for Sales Engineer
+Sales Engineer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$103k
+
+Sales Engineer
+image for Sales Manager
+Sales Manager
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$127k
+
+Sales Manager
+image for Sales Representative
+Sales Representative
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$61k
+
+Sales Representative
+image for School Counselor
+School Counselor
+Requires Master's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$60k
+
+School Counselor
+image for School Psychologist
+School Psychologist
+SATISFACTION:
+ Low
+
+SALARY:
+$79k
+
+School Psychologist
+image for Scientist
+Scientist
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$86k
+
+Scientist
+image for Sculptor
+Sculptor
+SATISFACTION:
+ Very high
+
+SALARY:
+$29k
+
+Sculptor
+image for Seamstress
+Seamstress
+SATISFACTION:
+ High
+
+SALARY:
+$25k
+
+Seamstress
+image for Search Engine Marketing Specialist
+Search Engine Marketing Specialist
+SATISFACTION:
+ Low
+
+SALARY:
+$42k
+
+Search Engine Marketing Specialist
+image for Search Engine Optimization Specialist
+Search Engine Optimization Specialist
+SATISFACTION:
+ Low
+
+SALARY:
+$38k
+
+Search Engine Optimization Specialist
+image for Search Marketing Strategist
+Search Marketing Strategist
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$90k
+
+Search Marketing Strategist
+image for Securities and Commodities Broker
+Securities and Commodities Broker
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$62k
+
+Securities and Commodities Broker
+image for Security Architect
+Security Architect
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Security Architect
+image for Security Engineer
+Security Engineer
+SATISFACTION:
+ Medium
+
+SALARY:
+$73k
+
+Security Engineer
+image for Security Guard
+Security Guard
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$31k
+
+Security Guard
+image for Security Software Developer
+Security Software Developer
+SATISFACTION:
+ Low
+
+SALARY:
+N/A
+
+Security Software Developer
+image for Security Systems Administrator
+Security Systems Administrator
+SATISFACTION:
+ Very low
+
+SALARY:
+N/A
+
+Security Systems Administrator
+image for Segmental Paver
+Segmental Paver
+Requires High School Diploma
+
+SATISFACTION:
+N/A
+
+SALARY:
+$33k
+
+Segmental Paver
+image for Senator
+Senator
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Senator
+image for Server Administrator
+Server Administrator
+SATISFACTION:
+ Low
+
+SALARY:
+$44k
+
+Server Administrator
+image for Session Musician
+Session Musician
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Session Musician
+image for Set Designer
+Set Designer
+SATISFACTION:
+ Very high
+
+SALARY:
+$27k
+
+Set Designer
+image for Sewer
+Sewer
+Requires Associate Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$29k
+
+Sewer
+image for Sewing Machine Operator
+Sewing Machine Operator
+Requires No Education
+
+SATISFACTION:
+ Low
+
+SALARY:
+$29k
+
+Sewing Machine Operator
+image for Sex Educator
+Sex Educator
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Sex Educator
+image for Sheet Metal Worker
+Sheet Metal Worker
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$53k
+
+Sheet Metal Worker
+image for Sheriff
+Sheriff
+Requires High School Diploma
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$64k
+
+Sheriff
+image for Ship Captain
+Ship Captain
+Requires Associate Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$81k
+
+Ship Captain
+image for Ship Engineer
+Ship Engineer
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$82k
+
+Ship Engineer
+image for Ship Loader
+Ship Loader
+Requires High School Diploma
+
+SATISFACTION:
+N/A
+
+SALARY:
+$49k
+
+Ship Loader
+image for Shipmate
+Shipmate
+Requires High School Diploma
+
+SATISFACTION:
+ Low
+
+SALARY:
+$81k
+
+Shipmate
+image for Shipping/Receiving Clerk
+Shipping/Receiving Clerk
+SATISFACTION:
+ Very low
+
+SALARY:
+$36k
+
+Shipping/Receiving Clerk
+image for Shoemaker
+Shoemaker
+Requires High School Diploma
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$31k
+
+Shoemaker
+image for Singer
+Singer
+Requires High School Diploma
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$63k
+
+Singer
+image for Skincare Specialist
+Skincare Specialist
+SATISFACTION:
+ High
+
+SALARY:
+$31k
+
+Skincare Specialist
+image for Ski Patroller
+Ski Patroller
+SATISFACTION:
+ Very high
+
+SALARY:
+$28k
+
+Ski Patroller
+image for Snake Milker
+Snake Milker
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Snake Milker
+image for Social Media Manager
+Social Media Manager
+SATISFACTION:
+ Medium
+
+SALARY:
+$31k
+
+Social Media Manager
+image for Social Scientist
+Social Scientist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Social Scientist
+image for Social Worker
+Social Worker
+Requires Master's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$61k
+
+Social Worker
+image for Sociologist
+Sociologist
+Requires Doctorate
+
+SATISFACTION:
+ High
+
+SALARY:
+$92k
+
+Sociologist
+image for Software Engineer
+Software Engineer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$92k
+
+Software Engineer
+image for Software Quality Assurance Engineer
+Software Quality Assurance Engineer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$90k
+
+Software Quality Assurance Engineer
+image for Soil and Plant Scientist
+Soil and Plant Scientist
+Requires Doctorate
+
+SATISFACTION:
+ High
+
+SALARY:
+$66k
+
+Soil and Plant Scientist
+image for Soil and Water Conservationist
+Soil and Water Conservationist
+SATISFACTION:
+ Medium
+
+SALARY:
+$63k
+
+Soil and Water Conservationist
+image for Solar Thermal Installer
+Solar Thermal Installer
+SATISFACTION:
+ Medium
+
+SALARY:
+$36k
+
+Solar Thermal Installer
+image for Solution Architect
+Solution Architect
+SATISFACTION:
+ High
+
+SALARY:
+$99k
+
+Solution Architect
+image for Sommelier
+Sommelier
+SATISFACTION:
+ Medium
+
+SALARY:
+$40k
+
+Sommelier
+image for Sound Engineering Technician
+Sound Engineering Technician
+Requires Associate Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$44k
+
+Sound Engineering Technician
+image for Spa Manager
+Spa Manager
+Requires Associate Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$38k
+
+Spa Manager
+image for Special Agent
+Special Agent
+Requires Associate Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$83k
+
+Special Agent
+image for Special Education Teacher
+Special Education Teacher
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$53k
+
+Special Education Teacher
+image for Special Forces Officer
+Special Forces Officer
+SATISFACTION:
+ High
+
+SALARY:
+N/A
+
+Special Forces Officer
+image for Speech Language Pathologist
+Speech Language Pathologist
+Requires Master's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$79k
+
+Speech Language Pathologist
+image for Sports Broadcaster
+Sports Broadcaster
+SATISFACTION:
+ Very high
+
+SALARY:
+$39k
+
+Sports Broadcaster
+image for Sports Manager
+Sports Manager
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Sports Manager
+image for Sports Medicine Physician
+Sports Medicine Physician
+Requires Doctorate
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$200k
+
+Sports Medicine Physician
+image for Sports Scout
+Sports Scout
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$38k
+
+Sports Scout
+image for Sports Writer
+Sports Writer
+Requires High School Diploma
+
+SATISFACTION:
+ High
+
+SALARY:
+$27k
+
+Sports Writer
+image for Statistician
+Statistician
+Requires Master's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$95k
+
+Statistician
+image for Sterile Processing Technician
+Sterile Processing Technician
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Sterile Processing Technician
+image for Stock Clerk
+Stock Clerk
+SATISFACTION:
+ Very low
+
+SALARY:
+$23k
+
+Stock Clerk
+image for Stock Trader
+Stock Trader
+SATISFACTION:
+ High
+
+SALARY:
+$62k
+
+Stock Trader
+image for Stone Cutter
+Stone Cutter
+Requires High School Diploma
+
+SATISFACTION:
+N/A
+
+SALARY:
+$37k
+
+Stone Cutter
+image for Stonemason
+Stonemason
+Requires No Education
+
+SATISFACTION:
+ Low
+
+SALARY:
+$47k
+
+Stonemason
+image for Street Vendor
+Street Vendor
+Requires No Education
+
+SATISFACTION:
+ Low
+
+SALARY:
+$29k
+
+Street Vendor
+image for Structural Engineer
+Structural Engineer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Structural Engineer
+image for Stuntman
+Stuntman
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Stuntman
+image for Substance Abuse Social Worker
+Substance Abuse Social Worker
+Requires Master's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$49k
+
+Substance Abuse Social Worker
+image for Supply Chain Manager
+Supply Chain Manager
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$124k
+
+Supply Chain Manager
+image for Surgeon
+Surgeon
+Requires Doctorate
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$255k
+
+Surgeon
+image for Surgical Assistant
+Surgical Assistant
+SATISFACTION:
+ High
+
+SALARY:
+$45k
+
+Surgical Assistant
+image for Surgical Technologist
+Surgical Technologist
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$48k
+
+Surgical Technologist
+image for Surveyor
+Surveyor
+Requires Associate Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$61k
+
+Surveyor
+image for Sustainability Officer
+Sustainability Officer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$179k
+
+Sustainability Officer
+image for Switchboard Operator
+Switchboard Operator
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$30k
+
+Switchboard Operator
+image for Systems Administrator
+Systems Administrator
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$74k
+
+Systems Administrator
+image for Systems Analyst
+Systems Analyst
+SATISFACTION:
+ Low
+
+SALARY:
+$79k
+
+Systems Analyst
+image for Systems Architect
+Systems Architect
+SATISFACTION:
+ High
+
+SALARY:
+$101k
+
+Systems Architect
+image for Systems Engineer
+Systems Engineer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$90k
+
+Systems Engineer
+image for Tailor
+Tailor
+Requires No Education
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$31k
+
+Tailor
+image for Talent Agent
+Talent Agent
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$78k
+
+Talent Agent
+image for Talent Director
+Talent Director
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$79k
+
+Talent Director
+image for Talk Show Host
+Talk Show Host
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Talk Show Host
+image for Tattoo Artist
+Tattoo Artist
+SATISFACTION:
+ Very high
+
+SALARY:
+$39k
+
+Tattoo Artist
+image for Taxi Driver
+Taxi Driver
+Requires No Education
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$26k
+
+Taxi Driver
+image for Tax Preparer
+Tax Preparer
+Requires Associate Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$46k
+
+Tax Preparer
+image for Teacher
+Teacher
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$60k
+
+Teacher
+image for Teacher Assistant
+Teacher Assistant
+Requires Associate Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$23k
+
+Teacher Assistant
+image for Technical Artist
+Technical Artist
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Technical Artist
+image for Technical Product Manager
+Technical Product Manager
+SATISFACTION:
+ High
+
+SALARY:
+$77k
+
+Technical Product Manager
+image for Technical Writer
+Technical Writer
+Requires Associate Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$78k
+
+Technical Writer
+image for Telemarketer
+Telemarketer
+Requires High School Diploma
+
+SATISFACTION:
+N/A
+
+SALARY:
+$28k
+
+Telemarketer
+image for Television Writer
+Television Writer
+SATISFACTION:
+ Very high
+
+SALARY:
+$69k
+
+Television Writer
+image for Teller
+Teller
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$36k
+
+Teller
+image for Tightrope Walker
+Tightrope Walker
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Tightrope Walker
+image for Tile and Marble Setter
+Tile and Marble Setter
+Requires No Education
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$47k
+
+Tile and Marble Setter
+image for Tool and Die Maker
+Tool and Die Maker
+Requires Associate Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$57k
+
+Tool and Die Maker
+image for Tour Guide
+Tour Guide
+Requires Associate Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$23k
+
+Tour Guide
+image for Toxicologist
+Toxicologist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Toxicologist
+image for Traffic Technician
+Traffic Technician
+Requires Associate Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$48k
+
+Traffic Technician
+image for Transit Police Officer
+Transit Police Officer
+Requires Associate Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$64k
+
+Transit Police Officer
+image for Translator
+Translator
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$35k
+
+Translator
+image for Transportation Planner
+Transportation Planner
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$84k
+
+Transportation Planner
+image for Trapper
+Trapper
+Requires High School Diploma
+
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Trapper
+image for Travel Agent
+Travel Agent
+Requires Associate Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$43k
+
+Travel Agent
+image for Travel Writer
+Travel Writer
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Travel Writer
+image for Treasurer
+Treasurer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$131k
+
+Treasurer
+image for Tree Service Technician
+Tree Service Technician
+SATISFACTION:
+ Medium
+
+SALARY:
+N/A
+
+Tree Service Technician
+image for Truck Driver
+Truck Driver
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$48k
+
+Truck Driver
+image for Underwriter
+Underwriter
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$76k
+
+Underwriter
+image for Upholsterer
+Upholsterer
+Requires High School Diploma
+
+SATISFACTION:
+ Low
+
+SALARY:
+$37k
+
+Upholsterer
+image for Urban Planner
+Urban Planner
+Requires Master's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$78k
+
+Urban Planner
+image for Urologist
+Urologist
+Requires Doctorate
+
+SATISFACTION:
+N/A
+
+SALARY:
+$200k
+
+Urologist
+image for UX Designer
+UX Designer
+SATISFACTION:
+ High
+
+SALARY:
+$64k
+
+UX Designer
+image for Vehicle Cleaner
+Vehicle Cleaner
+Requires High School Diploma
+
+SATISFACTION:
+ Very low
+
+SALARY:
+$29k
+
+Vehicle Cleaner
+image for Ventriloquist
+Ventriloquist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Ventriloquist
+image for Vermiculturist
+Vermiculturist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Vermiculturist
+image for Veterinarian
+Veterinarian
+Requires Doctorate
+
+SATISFACTION:
+ High
+
+SALARY:
+$100k
+
+Veterinarian
+image for Veterinary Acupuncturist
+Veterinary Acupuncturist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Veterinary Acupuncturist
+image for Veterinary Assistant
+Veterinary Assistant
+Requires Associate Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$29k
+
+Veterinary Assistant
+image for Veterinary Pathologist
+Veterinary Pathologist
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Veterinary Pathologist
+image for Veterinary Technician
+Veterinary Technician
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Veterinary Technician
+image for Veterinary Technologist
+Veterinary Technologist
+Requires Associate Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$36k
+
+Veterinary Technologist
+image for Video Game Creative Director
+Video Game Creative Director
+SATISFACTION:
+ Very high
+
+SALARY:
+$90k
+
+Video Game Creative Director
+image for Video Game Designer
+Video Game Designer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$90k
+
+Video Game Designer
+image for Video Game Level Editor
+Video Game Level Editor
+SATISFACTION:
+ Very high
+
+SALARY:
+$90k
+
+Video Game Level Editor
+image for Video Game Producer
+Video Game Producer
+SATISFACTION:
+ Very high
+
+SALARY:
+$90k
+
+Video Game Producer
+image for Videographer
+Videographer
+SATISFACTION:
+ Very high
+
+SALARY:
+$34k
+
+Videographer
+image for Volcanologist
+Volcanologist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Volcanologist
+image for Water Engineer
+Water Engineer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Low
+
+SALARY:
+$96k
+
+Water Engineer
+image for Water Transport Worker
+Water Transport Worker
+SATISFACTION:
+ Very low
+
+SALARY:
+N/A
+
+Water Transport Worker
+image for Water Treatment Plant Operator
+Water Treatment Plant Operator
+Requires High School Diploma
+
+SATISFACTION:
+ Low
+
+SALARY:
+$47k
+
+Water Treatment Plant Operator
+image for Weatherization Technician
+Weatherization Technician
+Requires High School Diploma
+
+SATISFACTION:
+N/A
+
+SALARY:
+$36k
+
+Weatherization Technician
+image for Web Designer
+Web Designer
+SATISFACTION:
+ Medium
+
+SALARY:
+$36k
+
+Web Designer
+image for Web Developer
+Web Developer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$69k
+
+Web Developer
+image for Wedding Planner
+Wedding Planner
+Requires Associate Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$49k
+
+Wedding Planner
+image for Welder
+Welder
+SATISFACTION:
+ Medium
+
+SALARY:
+$47k
+
+Welder
+image for Wellhead Pumper
+Wellhead Pumper
+Requires High School Diploma
+
+SATISFACTION:
+N/A
+
+SALARY:
+$63k
+
+Wellhead Pumper
+image for Wigmaker
+Wigmaker
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Wigmaker
+image for Wildlife Biologist
+Wildlife Biologist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Wildlife Biologist
+image for Wildlife Enforcement Officer
+Wildlife Enforcement Officer
+Requires Bachelor's Degree
+
+SATISFACTION:
+ High
+
+SALARY:
+$56k
+
+Wildlife Enforcement Officer
+image for Wildlife Rehabilitator
+Wildlife Rehabilitator
+SATISFACTION:
+ Very high
+
+SALARY:
+$27k
+
+Wildlife Rehabilitator
+image for Wind Energy Engineer
+Wind Energy Engineer
+SATISFACTION:
+ High
+
+SALARY:
+$100k
+
+Wind Energy Engineer
+image for Wind Turbine Services Technician
+Wind Turbine Services Technician
+Requires Associate Degree
+
+SATISFACTION:
+ Medium
+
+SALARY:
+$56k
+
+Wind Turbine Services Technician
+image for Woodworker
+Woodworker
+Requires High School Diploma
+
+SATISFACTION:
+ High
+
+SALARY:
+$28k
+
+Woodworker
+image for Yoga Instructor
+Yoga Instructor
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Yoga Instructor
+image for Zoo Curator
+Zoo Curator
+SATISFACTION:
+ Very high
+
+SALARY:
+N/A
+
+Zoo Curator
+image for Zoo Educator
+Zoo Educator
+SATISFACTION:
+ Very high
+
+SALARY:
+$24k
+
+Zoo Educator
+image for Zoo Endocrinologist
+Zoo Endocrinologist
+SATISFACTION:
+N/A
+
+SALARY:
+N/A
+
+Zoo Endocrinologist
+image for Zoologist
+Zoologist
+Requires Master's Degree
+
+SATISFACTION:
+ Very high
+
+SALARY:
+$64k
