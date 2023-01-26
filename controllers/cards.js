@@ -27,7 +27,7 @@ router.post('/', (req, res)=>{
     Cards.create(req.body, (err, createdCard)=>{
         const picGrab = axios.post('https://api.pexels.com/v1/' +
         `${card.title}`);
-        card.img = picGrab;
+        card.Image = picGrab;
         res.json(createdCard); //.json() will send proper headers in response so client knows it's json coming back
     });
 });

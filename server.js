@@ -34,22 +34,8 @@ app.use('/cards', cardsController);
 
 // Seeding the db
 app.get('/seed', async (req, res) => {
-await Cards.deleteMany({});
-var fileName = "alljobs.txt";
-	var txtFile;
-    if (window.XMLHttpRequest)
-	{// code for IE7+, Firefox, Chrome, Opera, Safari
-		txtFile = new XMLHttpRequest();
-	}
-	else
-	{// code for IE6, IE5
-		txtFile = new ActiveXObject("Microsoft.XMLHTTP");
-	}
-	txtFile.open("GET", fileName, false);
-	txtFile.send();
-	var txtDoc = txtFile.responseText;
-	var lines = txtDoc.split("\r\n"); 
-	await Cards.insertMany(lines);
+	await Cards.deleteMany({});
+	await Cards.insertMany(cardsData);
 	res.send('done!');
 });
 
