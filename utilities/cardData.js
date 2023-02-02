@@ -1,6 +1,6 @@
 // this data actually needs to be 
 // fed into the data base 
-const cardData = [ 
+const cardData= [
     {
         Image: '',
         title: 'Software_Engineer',
@@ -12,7 +12,7 @@ const cardData = [
         SV: '$100k',
         titleII: 'Software_Engineer'
     },
-     cardData2= {
+    {
         Image: '',
         title: 'Accountant',
         description: '',
@@ -23,7 +23,7 @@ const cardData = [
         SV: '$77k',
         titleII: 'Accountant'
     },
-     cardData3 = {
+    {
         Image: '',
         title: 'Account Manager',
         description: '',
@@ -34,7 +34,7 @@ const cardData = [
         SV: 'N/A',
         titleII: 'Account Manager'
     },
-     cardData4 = {
+    {
         Image: '',
         title: 'Acrobat',
         description: 'N/A',
@@ -45,7 +45,7 @@ const cardData = [
         SV: 'N/A',
         titleII: 'Acrobat'
     },
-     cardData5 = {
+    {
         Image: '',
         title: 'Systems Architect',
         description: 'Systems architects define the architecture of a computer system in order to fulfill certain requirements. Defining the architecture could mean breaking down the system into components, defining component interactions and interfaces, and/or deciding on the technologies and resources to be used in the design.',
@@ -56,7 +56,7 @@ const cardData = [
         SV: '$102k',
         titleII: 'Systems Architect'
     },
-     cardData6 = {
+    {
         Image: '',
         title: 'Network Architect',
         description: `A network architect designs and builds data communication networks.
@@ -72,5 +72,4 @@ const cardData = [
         titleII: 'Network Architect'
     }
 ];
-
 module.exports = cardData;
