@@ -35,11 +35,11 @@ router.post('/', (req, res)=>{
 });
 // Edit - Will be handled by React application
 // Show
-router.get('/:id', (req, res)=>{
-    Cards.findById(req.params.id, (err, foundCard)=>{
-        res.json(foundCard);
-    });
-});
+// router.get('/:id', (req, res)=>{
+//     Cards.findById(req.params.id, (err, foundCard)=>{
+//         res.json(foundCard);
+//     });
+// });
 
 router.get('/:title', (req, res) =>{
     Cards.findById(req.params.title, (err, foundCard)=>{
