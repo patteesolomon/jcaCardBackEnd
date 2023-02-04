@@ -18,8 +18,8 @@ router.delete('/:id', (req, res)=>{
 });
 // Update
 router.put('/:id', (req, res)=>{
-    Cards.findByIdAndUpdate(req.params.id, req.body, {new:true}, (err, updatedCard)=>{
-        res.json(updatedCard);
+    Cards.findByIdAndUpdate(req.params.id, req.body, (err, card)=>{
+        res.json(card);
     });
 });
 
@@ -41,7 +41,7 @@ router.post('/', (req, res)=>{
 //     });
 // });
 
-router.get('/:title', (req, res) =>{
+router.get('/:id', (req, res) =>{
     Cards.findById(req.params.title, (err, foundCard)=>{
         res.json(foundCard);
     });
