@@ -27,8 +27,12 @@ router.put('/:title', (req, res)=>{
 // Create
 router.post('/:title', (req, res) => {
     if (isValid) {
-        Cards.push({ title: req.body.title });
-        //res.redirect(`/cards/${Cards.length - 1}`);
+        //Cards.push({ title: req.body.title });
+        Cards.create(req.body, (err, createdCard) =>
+        {
+            res.redirect(`/cards`);
+        });
+        
     } else {
         console.log("Error");
         res.render("cards/new", {title : req.body.title});
