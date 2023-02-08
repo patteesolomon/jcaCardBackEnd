@@ -11,21 +11,21 @@ router.get('/', (req, res)=>{
 });
 // New - Will be handled by React application
 // Delete
-router.delete('/:title', (req, res)=>{
+router.delete('/:id/title', (req, res)=>{
     Cards.findByIdAndRemove(req.params.id, (err, deletedCard)=>{
         res.json(deletedCard);
     });
 });
 
 // Update
-router.put('/:title', (req, res)=>{
-    Cards.findByIdAndUpdate(req.params.id, req.body.title, (err, card)=>{
+router.put('/:id/title', (req, res)=>{
+    Cards.findByIdAndUpdate(req.params.id, req.body.id, (err, card)=>{
         res.json(card);
     });
 });
 
 // Create
-router.post('/:title', (req, res) => {
+router.post('/:id/title', (req, res) => {
     if (isValid) {
         //Cards.push({ title: req.body.title });
         Cards.create(req.body, (err, createdCard) =>
@@ -54,8 +54,8 @@ router.post('/:title', (req, res) => {
 //     });
 // });
 
-router.get('/:title', (req, res) =>{
-    Cards.findById(req.params.title, (err, foundCard)=>{
+router.get('/:id/title', (req, res) =>{
+    Cards.findById(req.params.id, (err, foundCard)=>{
         if (foundCard != null) {
             res.json(foundCard);
             isValid = true;
