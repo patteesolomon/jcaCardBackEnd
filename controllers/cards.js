@@ -35,7 +35,7 @@ router.post('/:id/title', (req, res) => {
         
     } else {
         console.log("Error");
-        res.render("cards/new", {title : req.body.title});
+        res.render("cards/:id/", {title : req.body.title});
     }
     
     
