@@ -11,21 +11,21 @@ router.get('/', (req, res)=>{
 });
 // New - Will be handled by React application
 // Delete
-router.delete('/:id/title', (req, res)=>{
+router.delete('/:id', (req, res)=>{
     Cards.findByIdAndRemove(req.params.id, (err, deletedCard)=>{
         res.json(deletedCard);
     });
 });
 
 // Update
-router.put('/:id/title', (req, res)=>{
+router.put('/:id', (req, res)=>{
     Cards.findByIdAndUpdate(req.params.id, req.body.id, (err, card)=>{
         res.json(card);
     });
 });
 
 // Create
-router.post('/:id/title', (req, res) => {
+router.post('/:id', (req, res) => {
     if (isValid) {
         //Cards.push({ title: req.body.title });
         Cards.create(req.body, (err, createdCard) =>
@@ -35,10 +35,7 @@ router.post('/:id/title', (req, res) => {
         
     } else {
         console.log("Error");
-        res.render("cards/:id/", {title : req.body.title});
     }
-    
-    
     // (req.body, (err, card)=>{
     //     // const picGrab = axios.post('https://api.pexels.com/v1/' +
     //     // `${card.id}`);
@@ -54,8 +51,8 @@ router.post('/:id/title', (req, res) => {
 //     });
 // });
 
-router.get('/:id/title', (req, res) =>{
-    Cards.findById(req.params.id, (err, foundCard)=>{
+router.get('/:title', (req, res) =>{
+    Cards.findById(req.params.title, (err, foundCard)=>{
         if (foundCard != null) {
             res.json(foundCard);
             isValid = true;
