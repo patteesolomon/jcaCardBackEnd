@@ -4,7 +4,7 @@ const Cards = require('../models/cards.js');
 // Remember INDUCES
 var isValid = false;
 // Index
-router.get('/:title', (req, res)=>{
+router.get('/', (req, res)=>{
     Cards.find({}, (err, foundCards)=>{
         res.json(foundCards);
     });
@@ -19,13 +19,13 @@ router.delete('/:id', (req, res)=>{
 
 // Update
 router.put('/:id', (req, res)=>{
-    Cards.findByIdAndUpdate(req.params.id, req.body, (err, card)=>{
+    Cards.findByIdAndUpdate(req.params.id, req.body.title, (err, card)=>{
         res.json(card);
     });
 });
 
 // Create
-router.post('/title', (req, res) => {
+router.post('/:id', (req, res) => {
     if (isValid) {
         Cards.push({ title: req.body.title });
         //res.redirect(`/cards/${Cards.length - 1}`);
