@@ -50,7 +50,7 @@ router.post('/:id', (req, res) => {
 //     });
 // });
 
-router.get('/:id', (req, res) =>{
+router.get('/:title', (req, res) =>{
     Cards.findById(req.params.title, (err, foundCard)=>{
         if (foundCard != null) {
             res.json(foundCard);
