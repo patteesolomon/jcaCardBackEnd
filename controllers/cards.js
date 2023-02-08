@@ -19,8 +19,9 @@ router.delete('/:id', (req, res)=>{
 
 // Update
 router.put('/:id', (req, res)=>{
-    Cards.findByIdAndUpdate(req.params.id, req.body.id, (err, card)=>{
+    Cards.findByIdAndUpdate(req.params.id, req.body.title, (err, card)=>{
         res.json(card);
+        res.send('card is here');
     });
 });
 
@@ -51,14 +52,13 @@ router.post('/:id', (req, res) => {
 //     });
 // });
 
-router.get('/:title', (req, res) =>{
-    Cards.findById(req.params.title, (err, foundCard)=>{
-        if (foundCard != null) {
-            res.json(foundCard);
-            isValid = true;
-        }
-        else{
-            console.error(err);
+router.get('/:title', (req, res, next) =>{
+    var title = req.params.title;
+        Cards.find({title: title}, function (err, cards){
+            if (err) {console.error('umm hello? => ' + err);
+                return res.redirect('/');
+            }
+            else{res.send({cardo: cards});
         }
     });
 });
