@@ -28,7 +28,7 @@ router.put('/:id', (req, res)=>{
 // Create
 router.post('/:id', (req, res) => {
     if (isValid) {
-        //Cards.push({ title: req.body.title });
+        const title = req.body.title;
         Cards.create(req.body, (err, createdCard) =>
         {
             res.redirect(`/cards`);
@@ -44,21 +44,19 @@ router.post('/:id', (req, res) => {
     //     res.json(card); //.json() will send proper headers in response so client knows it's json coming back
     // });
 });
-// Edit - Will be handled by  application
-// Show
-// router.get('/:id', (req, res)=>{
-//     Cards.findById(req.parReactams.id, (err, foundCard)=>{
-//         res.json(foundCard);
-//     });
-// });
-
-router.get('/:title', (req, res, next) =>{
+router.get('/:title', (req, res, next) =>
+{
     var title = req.params.title;
-        Cards.find({title: title}, function (err, cards){
-            if (err) {console.error('umm hello? => ' + err);
-                return res.redirect('/');
-            }
-            else{res.send({cardo: cards});
+    var t2 = req.body;
+    Cards.find({title: title}, function (err, card)
+    {
+        if (err) {console.error('umm hello? => ' + err);
+            return res.redirect('/');
+        }
+        else
+        {
+            //res.send({cardo: card});
+            res.send(t2);
         }
     });
 });
