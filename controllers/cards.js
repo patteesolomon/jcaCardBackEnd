@@ -47,7 +47,6 @@ router.post('/:id', (req, res) => {
 router.get('/:title', (req, res, next) =>
 {
     var title = req.params.title;
-    var t2 = req.body;
     Cards.find({title: title}, function (err, card)
     {
         if (err) {console.error('umm hello? => ' + err);
@@ -55,8 +54,7 @@ router.get('/:title', (req, res, next) =>
         }
         else
         {
-            //res.send({cardo: card});
-            res.send(t2);
+            res.send({cardo: card});
         }
     });
 });
